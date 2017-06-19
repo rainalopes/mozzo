@@ -1,0 +1,339 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hotel Dashboard</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--<link rel="stylesheet" type="text/css" href="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.css">-->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!--<script src="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
+<script>
+
+$.ajax({
+  url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e',
+  dataType: 'json',
+  success: function(result){
+           
+		   document.getElementById('Hotel_Title').innerHTML = result.title;
+		   $("#Hotel_image").attr("src", result.image);
+		   document.getElementById('Location').innerHTML = "<b>Location :</b> "+result.location;
+		   document.getElementById('Address').innerHTML = "<b>Address :</b> "+result.address;
+		   document.getElementById('ratinglabel').innerHTML = "<b>Rating :</b> "+result.rating;
+		   document.getElementById('rating').value = result.rating;
+		   
+        }
+});
+
+</script>
+
+<style>
+body{
+	background: -webkit-linear-gradient(#ff9a9e,#fad0c4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ff9a9e,#fad0c4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ff9a9e,#fad0c4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ff9a9e,#fad0c4); /* Standard syntax */
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+	}
+	
+
+
+@media screen and (min-width:320px) and (max-width:295px){
+div.circular.ui.blue.button,div.circular.ui.orange.button{
+float:none;
+margin-top:3px;
+}
+#container{
+width:100%;
+padding:20px;
+float:none;}
+
+#sentiment_section{
+width:200px;
+height:200px;
+overflow-x:scroll;
+overflow-y:scroll;
+}
+#Rating_section tbody{
+height:300px;
+overflow-x:scroll;
+overflow-y:scroll;
+}
+
+#review_section table tbody{
+height:400px;
+width:200px;
+display:block;
+overflow-y:scroll;
+overflow-x:scroll;
+}
+.review{
+width:100%;}
+}
+
+p{
+font-family:Verdana, Geneva, sans-serif;
+word-wrap:word-break;
+}
+
+#Commendable,#Burningissue{
+padding-top:30px;}
+
+
+
+#Hotel_Title{
+color: black;
+font-family: 'Trocchi', serif; 
+font-size: 45px; 
+font-weight: normal;
+line-height: 48px;
+margin: 0;
+}
+
+#FeatureTable{
+width:100%;
+}
+
+#FeatureTable thead tr th{
+background-color:#FEC2DE;
+}
+#FeatureTable thead, tbody tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+}
+#FeatureTable tbody{
+height:400px;
+display:block;
+overflow:auto;
+}
+
+#sentiment_section{
+width:100%;
+height:300px;
+overflow-x:scroll;
+overflow-y:auto;
+}
+
+#sentiments thead tr:nth-child(1){
+background-color:#C2F8FE;
+}
+#sentiments thead tr:nth-child(2){
+background-color:#B8FC9F;
+}
+#sentiments thead tr:nth-child(3){
+background-color:#FEC8CA;
+}
+.review{
+border:1px solid black;
+background-color: #F1EDE1;
+box-shadow: 3px 3px 2px #888888;
+padding:10px;
+width:100%;
+}
+#review_table{
+width:100%;
+}
+#review_table tbody{
+height:550px;
+display:block;
+overflow:auto;
+}
+#FeatureTable tbody tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+}
+
+</style>
+</head>
+<body>
+<div class="ui fixed menu">
+	<a class="active item">Overview</a>
+	<a class="item">Reviews</a>
+	<a class="item">User ratings</a>
+	<a class="item">Sentiment</a>
+	<a class="item">Competition</a>
+</div>
+<br/>
+<div id="container" class="ui container">
+	<div class="ui relaxed stackable grid">
+		<div class="seven wide column">
+			<p id="Commendable">COMMENDABLE AREAS</p>
+			<div class="circular ui blue button">Parking</div>
+			<div class="circular ui blue button">Bed</div>
+			<div class="circular ui blue button">Tranquility</div>
+			<div class="circular ui blue button">Decor</div>
+		</div>
+	<div class="nine wide column">
+		<p id="Burningissue">BURNING ISSUES</p>
+		<div class="circular ui orange button">Facilities Problem</div>
+		<div class="circular ui orange button">Floor</div>
+		<div class="circular ui orange button">Humidity</div>
+		<div class="circular ui orange button">Smell</div>
+		<div class="circular ui orange button">Health Hazards</div>
+	</div>
+	</div>
+	<br/>
+	<div class="ui segment" id="Hotel_details">
+		<div id="Hotel_Title">
+		</div>
+		<div class="ui relaxed stackable grid">
+		<div class="five wide column" id="Hotel_image_section">
+		<img class="ui middle aligned big image" id="Hotel_image"/>
+		</div>
+		<div class="seven wide column" id="details">
+			<label id="Location" ></label><br/>
+			<label id="Address" ></label><br/>
+			<label id="ratinglabel"></label><br/>
+			<meter id="rating" min="0" max="5"></meter>
+		</div>
+		<!-- Display name of hotel,details and image -->
+	</div></div>
+	<div class="ui segment" id="Rating_section">
+		<h2><u>REVIEWS AND RATINGS</u></h2>
+		<!--javascript for features table-->
+			<table class="ui padded pink table" id="FeatureTable" align=center>
+				<thead>
+				<tr>
+					<th>Features</th>
+					<th>Total Reviews</th>
+					<th>Ratings</th>
+					<th>Titles</th>
+					<th>Highlights</th>
+				</tr>
+				</thead>
+				<tbody id="FeatureTableBody">
+				<script>
+					$.ajax({
+					  url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e',
+					  dataType: 'json',
+					  success:function(result){
+						var table = document.getElementById("FeatureTableBody");
+ 
+						for(i=0;i<result["features"].length;i++){
+							var featureName = result["features"][i]["feature"];
+							var featureTotalCount = result["features"][i]["total_count"];
+							var featureRating = result["features"][i]["rating"];
+							var featureTitle = result["features"][i]["title"];
+							var featureHighlight = result["features"][i]["snippets"]
+							
+							var rows = table.insertRow(i);
+							var fname = rows.insertCell(0);
+							var ftc = rows.insertCell(1);
+							var frating = rows.insertCell(2);
+							var ft = rows.insertCell(3);
+							var fh = rows.insertCell(4);
+							
+							fname.innerHTML=featureName;
+							ftc.innerHTML=featureTotalCount;
+							frating.innerHTML="<meter value="+featureRating+" min='0' max='5' ></meter>"+featureRating;
+							ft.innerHTML=featureTitle;
+							fh.innerHTML = featureHighlight;
+							
+						}
+							
+					  }
+					});
+				</script>
+				</tbody>
+			</table>
+	</div>
+	<div class="ui segment" id="sentiment_section">
+		<h2><u>SENTIMENT STATISTICS</u></h2>
+		<!--javascript for mentions table-->
+		<table class="ui celled blue table" id="sentiments">
+			<script>
+				$.ajax({
+					url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e' , 
+					dataType:'json',
+					success:function(result){
+					var table = document.getElementById("sentiments");
+					var header = table.createTHead();
+					var rowFeatures = header.insertRow(0);
+					var rowPositive = header.insertRow(1);
+					var rowNegative = header.insertRow(2);
+					
+					var features = rowFeatures.insertCell(0);
+					var pmentions = rowPositive.insertCell(0);
+					var nmentions = rowNegative.insertCell(0);
+					
+					features.innerHTML="<b>FEATURES</b>";
+					pmentions.innerHTML="<b>POSITIVE MENTIONS</b>";
+					nmentions.innerHTML="<b>NEGATIVE MENTIONS</b>";
+					
+					for(i=0;i<result["features"].length;i++){
+						var name = rowFeatures.insertCell(i+1);
+						name.innerHTML="<b>"+result["features"][i]["feature"]+"<b>";
+						var positiveCount = rowPositive.insertCell(i+1);
+						positiveCount.innerHTML=result["features"][i]["pro_count"];
+						var negativeCount = rowNegative.insertCell(i+1);
+						negativeCount.innerHTML=result["features"][i]["con_count"];
+						
+					}	
+				}
+				});
+			</script>
+		</table>
+	</div>
+	
+	<div class="ui stackable grid">
+		<div id="c1" class="eight wide column">
+		<div class="ui segment">
+			<h2><u>COMPETITION</u></h2>
+			<canvas id="canvas1"></canvas>
+		</div>
+		</div>
+		
+		<div id="c1" class="eight wide column">
+		<div class="ui segment">
+			<h2><u>SENTIMENTS</u></h2>
+			<canvas id="canvas2"></canvas>
+		</div>
+		</div>
+		
+		
+	</div>
+	<br/>
+	<div class="ui segment" id="review_section">
+	<h2><u>LATEST REVIEWS</u></h2>
+			<table id="review_table" class="ui padded table" align=center>
+				<tbody id="review_body">
+					<script>
+						$.ajax({
+							url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e' , 
+							dataType:'json',
+							success:function(result){
+								var table = document.getElementById("review_body");
+								for(i=0;i<result["features"].length;i++){
+										var feature_name = result["features"][i]["feature"];
+										var row = table.insertRow(-1);
+										var feature_head = row.insertCell(0);
+										feature_head.innerHTML = "<div><h2>"+feature_name+"</h2></div>";
+										feature_head.style.backgroundColor = "#FBD76F";
+									for(j=0;j<result["features"][i]["examples"].length;j++){
+										var review_text = result["features"][i]["examples"][j]["text"];
+										var review_auth = result["features"][i]["examples"][j]["author"][0];
+										var review_date = result["features"][i]["examples"][j]["date"];
+										var row =table.insertRow(-1);
+										var review = row.insertCell(0);
+										review.innerHTML = "<div class='review'><p>"+review_text+"</p><p><b>Author:"+review_auth+"&nbsp &nbspDated:"+review_date+"</b></p><i class='reply icon'></i><a href='#'>Reply</a></div><br/>";
+									}
+								
+								}
+							
+							}
+						
+						});
+					</script>
+				</tbody>
+			</table>
+		
+	</div>
+</div>
+</body>
+</html>
