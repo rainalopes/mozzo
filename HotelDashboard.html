@@ -3,15 +3,21 @@
 <head>
 <title>Hotel Dashboard</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<!--<link rel="stylesheet" type="text/css" href="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.css">-->
+<!-- <link rel="stylesheet" type="text/css" href="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.css"> -->
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!--<script src="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.js"></script>-->
+<!-- <script src="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
-<script>
 
+<script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/serial.js"></script>
+<script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+<link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+
+<script>
 $.ajax({
-  url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e',
+  url: 'api_output.json',
   dataType: 'json',
   success: function(result){
            
@@ -19,7 +25,7 @@ $.ajax({
 		   $("#Hotel_image").attr("src", result.image);
 		   document.getElementById('Location').innerHTML = "<b>Location :</b> "+result.location;
 		   document.getElementById('Address').innerHTML = "<b>Address :</b> "+result.address;
-		   document.getElementById('ratinglabel').innerHTML = "<b>Rating :</b> "+result.rating;
+		   document.getElementById('ratinglabel').innerHTML = "<b>Rating : "+result.rating+"</b>";
 		   document.getElementById('rating').value = result.rating;
 		   
         }
@@ -129,9 +135,6 @@ background-color:#B8FC9F;
 background-color:#FEC8CA;
 }
 .review{
-border:1px solid black;
-background-color: #F1EDE1;
-box-shadow: 3px 3px 2px #888888;
 padding:10px;
 width:100%;
 }
@@ -144,10 +147,22 @@ display:block;
 overflow:auto;
 }
 #FeatureTable tbody tr {
-    display:table;
-    width:100%;
-    table-layout:fixed;
+display:table;
+width:100%;
+table-layout:fixed; 
 }
+.snippet{
+font-size:15px;
+}
+#details{
+font-size:20px;
+}
+/*chart style*/
+#chartdiv {
+	width		: 100%;
+	height		: 200px;
+	font-size	: 11px;
+}		
 
 </style>
 </head>
@@ -164,6 +179,7 @@ overflow:auto;
 	<div class="ui relaxed stackable grid">
 		<div class="seven wide column">
 			<p id="Commendable">COMMENDABLE AREAS</p>
+			<div class="ui divider"></div>
 			<div class="circular ui blue button">Parking</div>
 			<div class="circular ui blue button">Bed</div>
 			<div class="circular ui blue button">Tranquility</div>
@@ -171,6 +187,7 @@ overflow:auto;
 		</div>
 	<div class="nine wide column">
 		<p id="Burningissue">BURNING ISSUES</p>
+		<div class="ui divider"></div>
 		<div class="circular ui orange button">Facilities Problem</div>
 		<div class="circular ui orange button">Floor</div>
 		<div class="circular ui orange button">Humidity</div>
@@ -187,9 +204,9 @@ overflow:auto;
 		<img class="ui middle aligned big image" id="Hotel_image"/>
 		</div>
 		<div class="seven wide column" id="details">
-			<label id="Location" ></label><br/>
-			<label id="Address" ></label><br/>
-			<label id="ratinglabel"></label><br/>
+			<label id="Location" ></label><br/><br/>
+			<label id="Address" ></label><br/><br/>
+			<label id="ratinglabel"></label><br/><br/>
 			<meter id="rating" min="0" max="5"></meter>
 		</div>
 		<!-- Display name of hotel,details and image -->
@@ -210,7 +227,7 @@ overflow:auto;
 				<tbody id="FeatureTableBody">
 				<script>
 					$.ajax({
-					  url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e',
+					  url: 'api_output.json',
 					  dataType: 'json',
 					  success:function(result){
 						var table = document.getElementById("FeatureTableBody");
@@ -231,8 +248,9 @@ overflow:auto;
 							
 							fname.innerHTML=featureName;
 							ftc.innerHTML=featureTotalCount;
-							frating.innerHTML="<meter value="+featureRating+" min='0' max='5' ></meter>"+featureRating;
+							frating.innerHTML="<meter value="+featureRating+" min='0' low='2' max='5'></meter>"+featureRating;
 							ft.innerHTML=featureTitle;
+							
 							fh.innerHTML = featureHighlight;
 							
 						}
@@ -249,7 +267,7 @@ overflow:auto;
 		<table class="ui celled blue table" id="sentiments">
 			<script>
 				$.ajax({
-					url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e' , 
+					url: 'api_output.json' , 
 					dataType:'json',
 					success:function(result){
 					var table = document.getElementById("sentiments");
@@ -280,12 +298,133 @@ overflow:auto;
 			</script>
 		</table>
 	</div>
+
 	
 	<div class="ui stackable grid">
 		<div id="c1" class="eight wide column">
 		<div class="ui segment">
 			<h2><u>COMPETITION</u></h2>
-			<canvas id="canvas1"></canvas>
+			<div id="chartdiv"></div>
+			<script>
+				var chart = AmCharts.makeChart("chartdiv", {
+	"type": "serial",
+     "theme": "light",
+	"categoryField": "source",
+	"rotate": true,
+	"startDuration": 1,
+	"categoryAxis": {
+		"gridPosition": "start",
+		"position": "left"
+	},
+	"trendLines": [],
+	"graphs": [
+		{
+			"balloonText": "rating:[[value]]",
+			"fillAlphas": 1,
+			"id": "AmGraph-1",
+			"lineAlpha": 1,
+			"title": "rating",
+			"type": "column",
+			"valueField": "rating"
+		}
+	],
+	"guides": [],
+	"valueAxes": [
+		{
+			"id": "ValueAxis-1",
+			"position": "top",
+			"axisAlpha": 0
+		}
+	],
+	"allLabels": [],
+	"balloon": {},
+	"titles": [],
+	"dataProvider": [
+		{
+			"source": 'Atali',
+			"rating":4.9
+		
+		},
+		{
+			"source": 'Hotel sungrace',
+			"rating": 4.8
+		},
+		{
+		"source": 'Ganga kinare',
+			"rating": 4.7
+		},
+		{
+			"source": 'Dewa Retreat',
+			"rating": 4.8
+		},
+		{"source": 'Aloha',
+			"rating": 4.7
+		}
+	],
+    "export": {
+    	"enabled": true
+     }
+
+});
+			</script>
+				<!--Chart code-->
+			<!--<script>
+	Highcharts.chart('chartdiv', {
+    chart: {
+        type: 'bar'
+    },
+    title: {
+        text: ''
+    },
+    subtitle: {
+        text: ''
+    },
+    xAxis: {
+        categories: ['Atali', 'Hotel Sungrace', 'Ganga Kinare', 'Hotel Vishnu', 'Dewa Retreat'],
+        title: {
+            text: null
+        }
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Ratings',
+            align: 'high'
+        },
+        labels: {
+            overflow: 'justify'
+        }
+    },
+    tooltip: {
+        valueSuffix: 'stars'
+    },
+    plotOptions: {
+        bar: {
+            dataLabels: {
+                enabled: true
+            }
+        }
+    },
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'top',
+        x: -40,
+        y: 80,
+        floating: true,
+        borderWidth: 1,
+        backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+        shadow: true
+    },
+    credits: {
+        enabled: false
+    },
+    series: [{
+        name: 'ratings',
+        data: [4.7, 5, 4.5, 4.5, 4.8]
+    }]
+});
+</script>-->
 		</div>
 		</div>
 		
@@ -300,28 +439,29 @@ overflow:auto;
 	</div>
 	<br/>
 	<div class="ui segment" id="review_section">
-	<h2><u>LATEST REVIEWS</u></h2>
+	<h2><u>LATEST REVIEWS</u><a href="#" id="loadMore" style="float:right;display:inline;font-size:15px;">More</a></h2>
+	<div class="ui divider"></div>
 			<table id="review_table" class="ui padded table" align=center>
 				<tbody id="review_body">
 					<script>
 						$.ajax({
-							url: 'https://www.buzzopinion.com/externalapi?function=get_entity_review_summary&sku=df09dddf-56fe-4d56-a1b1-97a306b7f58e' , 
+							url: 'api_output.json' , 
 							dataType:'json',
 							success:function(result){
 								var table = document.getElementById("review_body");
 								for(i=0;i<result["features"].length;i++){
-										var feature_name = result["features"][i]["feature"];
+										/*var feature_name = result["features"][i]["feature"];
 										var row = table.insertRow(-1);
 										var feature_head = row.insertCell(0);
 										feature_head.innerHTML = "<div><h2>"+feature_name+"</h2></div>";
-										feature_head.style.backgroundColor = "#FBD76F";
+										feature_head.style.backgroundColor = "#FBD76F";*/
 									for(j=0;j<result["features"][i]["examples"].length;j++){
 										var review_text = result["features"][i]["examples"][j]["text"];
 										var review_auth = result["features"][i]["examples"][j]["author"][0];
 										var review_date = result["features"][i]["examples"][j]["date"];
-										var row =table.insertRow(-1);
+										var row = table.insertRow(-1);
 										var review = row.insertCell(0);
-										review.innerHTML = "<div class='review'><p>"+review_text+"</p><p><b>Author:"+review_auth+"&nbsp &nbspDated:"+review_date+"</b></p><i class='reply icon'></i><a href='#'>Reply</a></div><br/>";
+										review.innerHTML = "<div class='review ui stackable grid' id='load'><div class='two wide column'>Sources</div><div class='seven wide column snippet'><div class='content'>"+review_text+"</div></div><div class='two wide column'>rating</div><div class='three wide column'><i>Dated:"+review_date+"</div><div class='two wide column'><i class='large reply icon'></i><a href='#'>Reply</a></div></div><br/>";
 									}
 								
 								}
@@ -329,6 +469,24 @@ overflow:auto;
 							}
 						
 						});
+						
+						$(function () {
+    $("#review_table,tr").slice(0, 4).show();
+    $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $("#review_table,tr:hidden").slice(0, 4).slideDown();
+        if ($("#review_table,tr:hidden").length == 0) {
+            $("#load").fadeOut('slow');
+        }
+        $('#review_table,tbody').animate({
+            scrollTop: $(this).offset().top
+        }, 1500);
+    });
+});
+
+
+
+
 					</script>
 				</tbody>
 			</table>
