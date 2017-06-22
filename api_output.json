@@ -1,0 +1,4556 @@
+{
+  "rating": "4.4",
+  "features": [
+    {
+      "rating": "4.5",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "197",
+      "rating_percentage": "90",
+      "feature": "Food",
+      "con_count": "15",
+      "id_feature": "food",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r359443471-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459123200.0,
+          "summarized_phrase": "food is amazing",
+          "author": [
+            "wolverine007"
+          ],
+          "text": "Food is amazing and staff is extremely cooperative.",
+          "source_text": "Tripadvisor",
+          "date": "28 March 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r288388777-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1436745600.0,
+          "summarized_phrase": "occasions the quality of food was average at best",
+          "author": [
+            "UpamanyuB"
+          ],
+          "text": "On both occasions the quality of food was average at best.",
+          "source_text": "Tripadvisor",
+          "date": "13 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284928813-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435795200.0,
+          "author": [
+            "pooja77"
+          ],
+          "text": "Food wise, breakfast was decently elaborate and provided for.",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250616092-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421971200.0,
+          "author": [
+            "dagproperties"
+          ],
+          "text": "Quality of food was upto the mark with delicious North Indian cuisine.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/24_-Cooking_Pot-_kitchen_food_cooking.png",
+      "pro_count": "182",
+      "highlight": "false",
+      "snippets": "'food is amazing', 'food was also amazing'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "153",
+      "rating_percentage": "99",
+      "feature": "View",
+      "con_count": "0",
+      "id_feature": "view",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r340578888-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452988800.0,
+          "author": [
+            "SFO_2"
+          ],
+          "text": "Great views from the balcony.",
+          "source_text": "Tripadvisor",
+          "date": "17 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "The bathtub is placed by a glass window with a beautiful view.",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284928813-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435795200.0,
+          "author": [
+            "pooja77"
+          ],
+          "text": "Awesome view from the bed itself. .",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r255988866-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1424649600.0,
+          "author": [
+            "Priarien"
+          ],
+          "text": "The view from the forest macchan like they call it, was phenomenal !",
+          "source_text": "Tripadvisor",
+          "date": "23 February 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/document_eye_file_image_sight_view.png",
+      "pro_count": "153",
+      "highlight": "false",
+      "snippets": "'unbelievably amazing view', 'amazing views'"
+    },
+    {
+      "rating": "4.4",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "161",
+      "rating_percentage": "89",
+      "feature": "Room",
+      "con_count": "14",
+      "id_feature": "room",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "\u201cExceptionally beautiful property and tastefully decorated rooms\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r287473565-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1436486400.0,
+          "summarized_phrase": "well maintained rooms",
+          "author": [
+            "Shirish007"
+          ],
+          "text": "Well maintained rooms and fresh linen add to comfort.",
+          "source_text": "Tripadvisor",
+          "date": "10 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r208451084-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1401667200.0,
+          "author": [
+            "bharat1956"
+          ],
+          "text": "The view from the rooms is awesome.",
+          "source_text": "Tripadvisor",
+          "date": "2 June 2014",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r193151914-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1391558400.0,
+          "author": [
+            "akshits"
+          ],
+          "text": "The concept of the machan with the elevated rooms is beautiful.",
+          "source_text": "Tripadvisor",
+          "date": "5 February 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/x-01.png",
+      "pro_count": "147",
+      "highlight": "false",
+      "snippets": "'rooms are amazing', 'well maintained rooms'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "135",
+      "rating_percentage": "98",
+      "feature": "Nature",
+      "con_count": "1",
+      "id_feature": "nature",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r356177737-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1458172800.0,
+          "author": [
+            "kavit s"
+          ],
+          "text": "\u201cNature lovers\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "17 March 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "There is a guided nature trail organised in the evening by the management.",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r289839075-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437091200.0,
+          "author": [
+            "neha p"
+          ],
+          "text": "The overall environment and atmosphere makes you Fall in love with nature.",
+          "source_text": "Tripadvisor",
+          "date": "17 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r241831747-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417132800.0,
+          "author": [
+            "SanjuktaMS"
+          ],
+          "text": "\u201cExperience true nature @TheMachan\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "28 November 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/nature-03.png",
+      "pro_count": "134",
+      "highlight": "false",
+      "snippets": "'really enjoyed being with nature'"
+    },
+    {
+      "rating": "4.0",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "107",
+      "rating_percentage": "79",
+      "feature": "Service",
+      "con_count": "19",
+      "id_feature": "service",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r382757348-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1465948800.0,
+          "summarized_phrase": "staff do take care of your privacy yet gives the best service",
+          "author": [
+            "savita S"
+          ],
+          "text": "The entire staff do take care of your privacy yet gives the best service. .",
+          "source_text": "Tripadvisor",
+          "date": "15 June 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r359443471-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459123200.0,
+          "summarized_phrase": "amazing service",
+          "author": [
+            "wolverine007"
+          ],
+          "text": "Amazing Service. \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "28 March 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r341591650-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1453334400.0,
+          "summarized_phrase": "excellent service",
+          "author": [
+            "55love_maria"
+          ],
+          "text": "Excellent service . .",
+          "source_text": "Tripadvisor",
+          "date": "21 January 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r289839075-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437091200.0,
+          "author": [
+            "neha p"
+          ],
+          "text": "Just a improvement in service required. Lovely place.",
+          "source_text": "Tripadvisor",
+          "date": "17 July 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/6128_-_Hotel_Service.png",
+      "pro_count": "88",
+      "highlight": "false",
+      "snippets": "'amazing service', 'best service'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "91",
+      "rating_percentage": "96",
+      "feature": "Forest",
+      "con_count": "3",
+      "id_feature": "forest",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r340161004-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452816000.0,
+          "author": [
+            "Kamlesh A"
+          ],
+          "text": "We stayed in a Forest Machan.",
+          "source_text": "Tripadvisor",
+          "date": "15 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r287061166-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1436400000.0,
+          "author": [
+            "blu3crabs"
+          ],
+          "text": "Completely off grid and between beautiful forests and mountains.",
+          "source_text": "Tripadvisor",
+          "date": "9 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r277412800-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1433289600.0,
+          "author": [
+            "vidisha s"
+          ],
+          "text": "Ours was a forest machan.",
+          "source_text": "Tripadvisor",
+          "date": "3 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r246617244-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1419984000.0,
+          "author": [
+            "Praveen G"
+          ],
+          "text": "Considering that it's in a forest setting, the place is very well maintained.",
+          "source_text": "Tripadvisor",
+          "date": "31 December 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/550.png",
+      "pro_count": "88",
+      "highlight": "false",
+      "snippets": "'forests were simply amazing'"
+    },
+    {
+      "rating": "4.7",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "78",
+      "rating_percentage": "93",
+      "feature": "Property",
+      "con_count": "4",
+      "id_feature": "property",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r359443471-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459123200.0,
+          "summarized_phrase": "fantastic property",
+          "author": [
+            "wolverine007"
+          ],
+          "text": "\u201cFantastic Property. Amazing Service.",
+          "source_text": "Tripadvisor",
+          "date": "28 March 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r342264571-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1453593600.0,
+          "summarized_phrase": "amazing property",
+          "author": [
+            "PrabhaJain"
+          ],
+          "text": "\u201cAmazing Property! !",
+          "source_text": "Tripadvisor",
+          "date": "24 January 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r324974029-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1446854400.0,
+          "author": [
+            "394rishik"
+          ],
+          "text": "It'S a mind blowing property.",
+          "source_text": "Tripadvisor",
+          "date": "7 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r311705821-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1442620800.0,
+          "author": [
+            "Gaurav W"
+          ],
+          "text": "The property is outstanding my congratulations to the owners .",
+          "source_text": "Tripadvisor",
+          "date": "19 September 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/home.png",
+      "pro_count": "74",
+      "highlight": "false",
+      "snippets": "'fantastic property', 'amazing property'"
+    },
+    {
+      "rating": "4.7",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "90",
+      "rating_percentage": "94",
+      "feature": "Tree",
+      "con_count": "4",
+      "id_feature": "tree",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r356241925-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1458172800.0,
+          "author": [
+            "Deepesh1987"
+          ],
+          "text": "\u201cA good Tree house stay :)\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "17 March 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r338853987-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452384000.0,
+          "author": [
+            "EarthAndMore"
+          ],
+          "text": "All between the trees. Literally !",
+          "source_text": "Tripadvisor",
+          "date": "10 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r310897768-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1442361600.0,
+          "summarized_phrase": "beautifully done up tree houses",
+          "author": [
+            "niral212"
+          ],
+          "text": "Beautifully done up tree-houses. Food is average and with limited choices.",
+          "source_text": "Tripadvisor",
+          "date": "16 September 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r198077618-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1395273600.0,
+          "author": [
+            "csippy46"
+          ],
+          "text": "The tree houses have all of the modern conveniences minus a few.",
+          "source_text": "Tripadvisor",
+          "date": "20 March 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/pine-tree-7.png",
+      "pro_count": "86",
+      "highlight": "false",
+      "snippets": "'beautifully done up tree houses'"
+    },
+    {
+      "rating": "4.3",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "78",
+      "rating_percentage": "85",
+      "feature": "Dinner",
+      "con_count": "9",
+      "id_feature": "dinner",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r369112033-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1462060800.0,
+          "author": [
+            "abinashchuroria"
+          ],
+          "text": "Candle light dinner in the beneath the starry skies was an icing on the cake. .",
+          "source_text": "Tripadvisor",
+          "date": "1 May 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r341591650-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1453334400.0,
+          "author": [
+            "55love_maria"
+          ],
+          "text": "The arrangements tht dey made for dinner time was so so so romantic. .",
+          "source_text": "Tripadvisor",
+          "date": "21 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r278863938-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1433808000.0,
+          "author": [
+            "RudyP25"
+          ],
+          "text": "You are afforded luxuries of well cooked meals, warm masala chai and lights.",
+          "source_text": "Tripadvisor",
+          "date": "9 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r256733576-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1424995200.0,
+          "author": [
+            "Smarika_R_Faisal"
+          ],
+          "text": "Dinner is by candlelight and under the moon. .",
+          "source_text": "Tripadvisor",
+          "date": "27 February 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/breakfast_lunch_dinner_serve.png",
+      "pro_count": "69",
+      "highlight": "false",
+      "snippets": "'dinner is sumptuous', 'well prepared meals'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "49",
+      "rating_percentage": "98",
+      "feature": "Valley",
+      "con_count": "0",
+      "id_feature": "valley",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335733013-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451347200.0,
+          "author": [
+            "Sulakshana S"
+          ],
+          "text": "Glass walls on 3 sides overlooking the valley.",
+          "source_text": "Tripadvisor",
+          "date": "29 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r262493097-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1427587200.0,
+          "author": [
+            "ridhesh"
+          ],
+          "text": "It has a beautiful deck overlooking the valley with a hammock and a bath tub.",
+          "source_text": "Tripadvisor",
+          "date": "29 March 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r248612719-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1420848000.0,
+          "author": [
+            "nairsantosh"
+          ],
+          "text": "Lovely view of the valley around!",
+          "source_text": "Tripadvisor",
+          "date": "10 January 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r214291146-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1404777600.0,
+          "author": [
+            "Abhijeet K"
+          ],
+          "text": "It'S on the way from lonavala to Amby valley.",
+          "source_text": "Tripadvisor",
+          "date": "8 July 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/sun-valley.png",
+      "pro_count": "49",
+      "highlight": "false",
+      "snippets": "'lush valleys', 'lush greenery of valley'"
+    },
+    {
+      "rating": "4.4",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "47",
+      "rating_percentage": "88",
+      "feature": "Family",
+      "con_count": "4",
+      "id_feature": "family",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r221364969-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1407801600.0,
+          "author": [
+            "Karanisha"
+          ],
+          "text": "It is a great place to go to with your friends and family.",
+          "source_text": "Tripadvisor",
+          "date": "12 August 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r219606089-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1407196800.0,
+          "summarized_phrase": "perfect for a six member family",
+          "author": [
+            "Shreeviji"
+          ],
+          "text": "Perfect for a six member family. We regretted to have booked it just for a day.",
+          "source_text": "Tripadvisor",
+          "date": "5 August 2014",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r201999928-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1398038400.0,
+          "author": [
+            "Anitamakhija"
+          ],
+          "text": "Also a very warm and family like staff with delicious food.",
+          "source_text": "Tripadvisor",
+          "date": "21 April 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r166000260-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1372723200.0,
+          "summarized_phrase": "ideal for a family",
+          "author": [
+            "Mathanki"
+          ],
+          "text": "It'S ideal for a family.",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/family_parents_kids_children.png",
+      "pro_count": "43",
+      "highlight": "false",
+      "snippets": "'excellent family outing'"
+    },
+    {
+      "rating": "4.6",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "46",
+      "rating_percentage": "93",
+      "feature": "Walk",
+      "con_count": "2",
+      "id_feature": "walk",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r331027094-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1449360000.0,
+          "author": [
+            "nishsj"
+          ],
+          "text": "No TV; spend your time talking, reading, walking, writing, relaxing.",
+          "source_text": "Tripadvisor",
+          "date": "6 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r311705821-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1442620800.0,
+          "author": [
+            "Gaurav W"
+          ],
+          "text": "\u201cA Walk in the Clouds ! \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "19 September 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r240283329-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1416182400.0,
+          "author": [
+            "abhilash272"
+          ],
+          "text": "Rooms are provide with hand torch for walking in the night.",
+          "source_text": "Tripadvisor",
+          "date": "17 November 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r206137490-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1400457600.0,
+          "author": [
+            "Kopite864"
+          ],
+          "text": "However, a morning walk ensured a good appetite was built up for the brekkie.",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/1057.png",
+      "pro_count": "44",
+      "highlight": "false",
+      "snippets": "'evening walk was nice'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "54",
+      "rating_percentage": "97",
+      "feature": "Getaway",
+      "con_count": "1",
+      "id_feature": "getaway",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r332229998-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1449878400.0,
+          "summarized_phrase": "perfect getaway",
+          "author": [
+            "Ashah83"
+          ],
+          "text": "All in all, it was a perfect getaway and we will be back! .",
+          "source_text": "Tripadvisor",
+          "date": "12 December 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r278863938-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1433808000.0,
+          "author": [
+            "RudyP25"
+          ],
+          "text": "This is an excellent getaway for a short stay.",
+          "source_text": "Tripadvisor",
+          "date": "9 June 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r271960503-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431561600.0,
+          "author": [
+            "Anuja D"
+          ],
+          "text": "I must say it was a real weekend getaway.",
+          "source_text": "Tripadvisor",
+          "date": "14 May 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r251564481-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1422489600.0,
+          "author": [
+            "KNimesh"
+          ],
+          "text": "\u201cAn excellent getaway near Mumbai\u201d . Huge property with lots of greenery around.",
+          "source_text": "Tripadvisor",
+          "date": "29 January 2015",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/story.png",
+      "pro_count": "53",
+      "highlight": "false",
+      "snippets": "'perfect getaway', 'amazing getaway'"
+    },
+    {
+      "rating": "4.2",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "41",
+      "rating_percentage": "84",
+      "feature": "Location",
+      "con_count": "5",
+      "id_feature": "location",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r479726189-The_Machan-Lonavala_Pune_District_Maharashtra.html",
+          "seconds_from_epoch": 1493337600.0,
+          "author": [
+            "Sagar2302"
+          ],
+          "text": "The location was very good with excellent and unspoiled sunrise and sunsets.",
+          "source_text": "Tripadvisor",
+          "date": "April 28, 2017",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r285464163-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435968000.0,
+          "author": [
+            "smitzz"
+          ],
+          "text": "It is such a beautiful location and the hotel is so well maintained.",
+          "source_text": "Tripadvisor",
+          "date": "4 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r218800827-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406851200.0,
+          "summarized_phrase": "location is good",
+          "author": [
+            "NJB3504"
+          ],
+          "text": "The location is good.",
+          "source_text": "Tripadvisor",
+          "date": "1 August 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r175709699-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1378252800.0,
+          "author": [
+            "SagarS123"
+          ],
+          "text": "The location is very secluded but is worth every bump of the rough road.",
+          "source_text": "Tripadvisor",
+          "date": "4 September 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/L341.png",
+      "pro_count": "36",
+      "highlight": "false",
+      "snippets": "'fantastic location', 'great location'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "39",
+      "rating_percentage": "98",
+      "feature": "Sunset",
+      "con_count": "0",
+      "id_feature": "sunset",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335394207-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451260800.0,
+          "author": [
+            "anilbhaya"
+          ],
+          "text": "The sunset point is breathtaking and food is nice and delicious.",
+          "source_text": "Tripadvisor",
+          "date": "28 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r333643027-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1450396800.0,
+          "author": [
+            "Cadet_ram"
+          ],
+          "text": "The evening jungle was just lovely specially the sunset point .",
+          "source_text": "Tripadvisor",
+          "date": "18 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r324974029-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1446854400.0,
+          "author": [
+            "394rishik"
+          ],
+          "text": "We stayed at sunset machan it was very good, very private experience.",
+          "source_text": "Tripadvisor",
+          "date": "7 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250644897-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421971200.0,
+          "author": [
+            "PeeyuB"
+          ],
+          "text": "The trail ended at the sunset point.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/sunset.png",
+      "pro_count": "39",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.2",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "36",
+      "rating_percentage": "85",
+      "feature": "Breakfast",
+      "con_count": "4",
+      "id_feature": "breakfast",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r479726189-The_Machan-Lonavala_Pune_District_Maharashtra.html",
+          "seconds_from_epoch": 1493337600.0,
+          "author": [
+            "Sagar2302"
+          ],
+          "text": "The breakfast. .",
+          "source_text": "Tripadvisor",
+          "date": "April 28, 2017"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284928813-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435795200.0,
+          "author": [
+            "pooja77"
+          ],
+          "text": "Food wise, breakfast was decently elaborate and provided for.",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268335156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430092800.0,
+          "author": [
+            "Swastika R"
+          ],
+          "text": ":) Breakfast is inclusive.",
+          "source_text": "Tripadvisor",
+          "date": "27 April 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250644897-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421971200.0,
+          "author": [
+            "PeeyuB"
+          ],
+          "text": "Tariff includes breakfast only. Please note walk ins are not allowed.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/breakfast_lunch_dinner_serve.png",
+      "pro_count": "32",
+      "highlight": "false",
+      "snippets": "'breakfast was enjoyable too     eggs'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "35",
+      "rating_percentage": "98",
+      "feature": "Heritage",
+      "con_count": "0",
+      "id_feature": "heritage",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335733013-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451347200.0,
+          "author": [
+            "Sulakshana S"
+          ],
+          "text": "We took the heritage machan for 6 people.",
+          "source_text": "Tripadvisor",
+          "date": "29 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r332229998-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1449878400.0,
+          "author": [
+            "Ashah83"
+          ],
+          "text": "We booked the Heritage Machan for my in-laws 35th anniversary celebration.",
+          "source_text": "Tripadvisor",
+          "date": "12 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r213705678-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1404518400.0,
+          "author": [
+            "Rakhee25"
+          ],
+          "text": "We were ushered into the Heritage Machan and there were smiles all around.",
+          "source_text": "Tripadvisor",
+          "date": "5 July 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r187235141-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1386633600.0,
+          "author": [
+            "Stella312"
+          ],
+          "text": "We stayed at the Heritage Machan just as the monsoon was ending.",
+          "source_text": "Tripadvisor",
+          "date": "10 December 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/TC14_ICONS_FINAL-03.png",
+      "pro_count": "35",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.1",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "32",
+      "rating_percentage": "82",
+      "feature": "Bed",
+      "con_count": "5",
+      "id_feature": "bed",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r361583125-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459728000.0,
+          "author": [
+            "Ahmad N"
+          ],
+          "text": "Plush beds in all places.",
+          "source_text": "Tripadvisor",
+          "date": "4 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "The bed is very comfy. The floors are wooden.",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r296611991-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1438905600.0,
+          "author": [
+            "rajiv1981"
+          ],
+          "text": "When we ordered for bed tea we were told 'Tea is served at the breakfast area.",
+          "source_text": "Tripadvisor",
+          "date": "7 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284928813-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435795200.0,
+          "author": [
+            "pooja77"
+          ],
+          "text": "Awesome view from the bed itself. .",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2015",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/33_-Bed-_hotel_service_travel.png",
+      "pro_count": "27",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "31",
+      "rating_percentage": "99",
+      "feature": "Luxury",
+      "con_count": "0",
+      "id_feature": "luxury",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r278863938-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1433808000.0,
+          "author": [
+            "RudyP25"
+          ],
+          "text": "You are afforded luxuries of well cooked meals, warm masala chai and lights.",
+          "source_text": "Tripadvisor",
+          "date": "9 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r256733576-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1424995200.0,
+          "author": [
+            "Smarika_R_Faisal"
+          ],
+          "text": "The machans are luxurious and spacious with views to die for. .",
+          "source_text": "Tripadvisor",
+          "date": "27 February 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r231419465-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1411862400.0,
+          "author": [
+            "Manishshahri"
+          ],
+          "text": "\u201cRelive your childhood fantasy- in a luxurious treehouse! \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "28 September 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r190936524-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1389744000.0,
+          "author": [
+            "JagatPalSingh"
+          ],
+          "text": "\u201cLuxury in the serenity\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "15 January 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/transportation-18.png",
+      "pro_count": "31",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.2",
+      "font_size": "normal",
+      "title": "good",
+      "total_count": "27",
+      "rating_percentage": "85",
+      "feature": "Water",
+      "con_count": "6",
+      "id_feature": "water",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r361583125-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459728000.0,
+          "author": [
+            "Ahmad N"
+          ],
+          "text": "The water on the property is locally extracted from a well on the premises.",
+          "source_text": "Tripadvisor",
+          "date": "4 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r331027094-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1449360000.0,
+          "author": [
+            "nishsj"
+          ],
+          "text": "The bathrooms are big and has comfortable fittings & hot and cold running water.",
+          "source_text": "Tripadvisor",
+          "date": "6 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "24 hours hot and cold water available.",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250283534-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421798400.0,
+          "author": [
+            "Yasmin Q"
+          ],
+          "text": "Personal touches like hot water bag being provided . .",
+          "source_text": "Tripadvisor",
+          "date": "21 January 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/307.png",
+      "pro_count": "21",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "27",
+      "rating_percentage": "99",
+      "feature": "Sky",
+      "con_count": "0",
+      "id_feature": "sky",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335048393-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451088000.0,
+          "author": [
+            "chichi_chem"
+          ],
+          "text": "There was a way to even feel the open sky by pulling of the rook shades.",
+          "source_text": "Tripadvisor",
+          "date": "26 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r329632699-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448755200.0,
+          "author": [
+            "Bharadwaj G"
+          ],
+          "text": "Roof being transparent its brilliant to watch the clear skies!",
+          "source_text": "Tripadvisor",
+          "date": "29 November 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r242879689-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417651200.0,
+          "author": [
+            "Sona M"
+          ],
+          "text": "There'S nothing between you and the sky.",
+          "source_text": "Tripadvisor",
+          "date": "4 December 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r194375919-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1392595200.0,
+          "author": [
+            "aKa24"
+          ],
+          "text": "It has a bath tub and open to sky shower too.",
+          "source_text": "Tripadvisor",
+          "date": "17 February 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/021.png",
+      "pro_count": "27",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.8",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "26",
+      "rating_percentage": "95",
+      "feature": "Shower",
+      "con_count": "1",
+      "id_feature": "shower",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r371994211-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1462924800.0,
+          "author": [
+            "sasha1904"
+          ],
+          "text": "Shower caps and sanitary bags are also made available (very thoughtful!",
+          "source_text": "Tripadvisor",
+          "date": "11 May 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "author": [
+            "Sachin M"
+          ],
+          "text": "There is open shower ( open to sky ) open to sky tub bath. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268335156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430092800.0,
+          "author": [
+            "Swastika R"
+          ],
+          "text": "We stayed in forest machan which had a jacuzzi and an open shower area.",
+          "source_text": "Tripadvisor",
+          "date": "27 April 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r207046558-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1401062400.0,
+          "author": [
+            "Samar C"
+          ],
+          "text": "The fluctuations in water temperature in shower.",
+          "source_text": "Tripadvisor",
+          "date": "26 May 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/bathroom-01.png",
+      "pro_count": "25",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "26",
+      "rating_percentage": "99",
+      "feature": "Design",
+      "con_count": "0",
+      "id_feature": "design",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r349707094-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1456012800.0,
+          "author": [
+            "Kamal J"
+          ],
+          "text": "Rooms are awesomely designed and decorated.",
+          "source_text": "Tripadvisor",
+          "date": "21 February 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r311705821-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1442620800.0,
+          "author": [
+            "Gaurav W"
+          ],
+          "text": "The rooms with there well designed sit outs invite you to curl up with a book.",
+          "source_text": "Tripadvisor",
+          "date": "19 September 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250283534-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421798400.0,
+          "author": [
+            "Yasmin Q"
+          ],
+          "text": "The hand carved furniture and unique designs made it so exciting . .",
+          "source_text": "Tripadvisor",
+          "date": "21 January 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r225825698-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1409529600.0,
+          "author": [
+            "PoornimaGovindrao"
+          ],
+          "text": "\u201cGreat view, beautifully designed rooms\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "1 September 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/design-development-pages-docs.png",
+      "pro_count": "26",
+      "highlight": "false",
+      "snippets": "'meticulously designed', 'well designed'"
+    },
+    {
+      "rating": "4.7",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "25",
+      "rating_percentage": "94",
+      "feature": "Tub",
+      "con_count": "1",
+      "id_feature": "tub",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r388386786-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1467417600.0,
+          "author": [
+            "DEBANJANA B"
+          ],
+          "text": "There was a small tub in the balcony which to me seemed a pretty addition.",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r314988758-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1443571200.0,
+          "author": [
+            "Jaina P"
+          ],
+          "text": "Loved the serene experience of lying down in the tub with nature.",
+          "source_text": "Tripadvisor",
+          "date": "30 September 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268335156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430092800.0,
+          "author": [
+            "Swastika R"
+          ],
+          "text": "We stayed in forest machan which had a jacuzzi and an open shower area.",
+          "source_text": "Tripadvisor",
+          "date": "27 April 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250604254-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421971200.0,
+          "author": [
+            "Mayank289"
+          ],
+          "text": "In the morning, don\u2019t forget to have a hot water bath in the open air bath tub.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/017_-_Bath_Tub.png",
+      "pro_count": "24",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.4",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "24",
+      "rating_percentage": "89",
+      "feature": "Lunch",
+      "con_count": "2",
+      "id_feature": "lunch",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335061115-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451088000.0,
+          "author": [
+            "Urvashi K"
+          ],
+          "text": "Lunch , dinner as well as breakfast. .",
+          "source_text": "Tripadvisor",
+          "date": "26 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268098916-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430006400.0,
+          "author": [
+            "Apurva_AJ"
+          ],
+          "text": "We were greeted with utmost warmth and the best welcome lunch ever.",
+          "source_text": "Tripadvisor",
+          "date": "26 April 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r245574096-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1419292800.0,
+          "author": [
+            "ritugh"
+          ],
+          "text": "The lunch buffet was good - home cooked food with hot chapatis.",
+          "source_text": "Tripadvisor",
+          "date": "23 December 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r159363738-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1367366400.0,
+          "author": [
+            "Zakia8"
+          ],
+          "text": "Our lunch was served outside surrounded by the subtle sounds of the forest.",
+          "source_text": "Tripadvisor",
+          "date": "1 May 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/breakfast_lunch_dinner_serve.png",
+      "pro_count": "22",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "19",
+      "rating_percentage": "96",
+      "feature": "Sound",
+      "con_count": "1",
+      "id_feature": "sound",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284928813-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435795200.0,
+          "author": [
+            "pooja77"
+          ],
+          "text": "Only sound is the sound of the jungle. .",
+          "source_text": "Tripadvisor",
+          "date": "2 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r218506040-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406678400.0,
+          "author": [
+            "JD2812"
+          ],
+          "text": "It is so calm, you can actually wake up to the sounds of birds and rains.",
+          "source_text": "Tripadvisor",
+          "date": "30 July 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r159363738-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1367366400.0,
+          "author": [
+            "Zakia8"
+          ],
+          "text": "Our lunch was served outside surrounded by the subtle sounds of the forest.",
+          "source_text": "Tripadvisor",
+          "date": "1 May 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/Audio.png",
+      "pro_count": "18",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.0",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "17",
+      "rating_percentage": "80",
+      "feature": "Show",
+      "con_count": "4",
+      "id_feature": "show",
+      "examples": [
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r296611991-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1438905600.0,
+          "author": [
+            "rajiv1981"
+          ],
+          "text": "'They are not even enthusiastic about showing you the property.",
+          "source_text": "Tripadvisor",
+          "date": "7 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r290603816-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437350400.0,
+          "author": [
+            "Tunu1987"
+          ],
+          "text": "Exquisitely built rooms with such love shown to the smallest details.",
+          "source_text": "Tripadvisor",
+          "date": "20 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "author": [
+            "Sachin M"
+          ],
+          "text": "He showed us all types of Machans. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r213705678-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1404518400.0,
+          "author": [
+            "Rakhee25"
+          ],
+          "text": "Glass walls show off the stunning view.",
+          "source_text": "Tripadvisor",
+          "date": "5 July 2014",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/thin-044_visability_view_watch_eye.png",
+      "pro_count": "13",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.0",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "16",
+      "rating_percentage": "79",
+      "feature": "Sleep",
+      "con_count": "4",
+      "id_feature": "sleep",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r338853987-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452384000.0,
+          "author": [
+            "EarthAndMore"
+          ],
+          "text": "Eat, rest, sleep and tea. .",
+          "source_text": "Tripadvisor",
+          "date": "10 January 2016"
+        },
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r328503630-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448236800.0,
+          "author": [
+            "Ameet_Bagwe"
+          ],
+          "text": "Needless to say, we didn't get any sleep.",
+          "source_text": "Tripadvisor",
+          "date": "23 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "author": [
+            "Sachin M"
+          ],
+          "text": "You feel that you are sleeping in jungle. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015"
+        },
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r247995496-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1420588800.0,
+          "author": [
+            "AnkitBaid"
+          ],
+          "text": "The quality of sleep was really bad with dogs barking at night.",
+          "source_text": "Tripadvisor",
+          "date": "7 January 2015",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/5.png",
+      "pro_count": "12",
+      "highlight": "false",
+      "snippets": "'u sleep there is this strong wind'"
+    },
+    {
+      "rating": "4.2",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "16",
+      "rating_percentage": "84",
+      "feature": "Cottage",
+      "con_count": "2",
+      "id_feature": "cottage",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335394207-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451260800.0,
+          "author": [
+            "anilbhaya"
+          ],
+          "text": "Right from a nondescript entrance to cozy well spread out beautiful cottages. .",
+          "source_text": "Tripadvisor",
+          "date": "28 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r330068608-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448928000.0,
+          "author": [
+            "Thelapillil"
+          ],
+          "text": "The cottage allotted to us was excellent in terms of location and decor.",
+          "source_text": "Tripadvisor",
+          "date": "1 December 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r329376005-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448582400.0,
+          "author": [
+            "michaeldsilva"
+          ],
+          "text": "The cottage is very spacious. It is made of wood frames with glass walls.",
+          "source_text": "Tripadvisor",
+          "date": "27 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r325222018-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1446940800.0,
+          "author": [
+            "cdr_ashish"
+          ],
+          "text": "The cottage decor was tastefully done.",
+          "source_text": "Tripadvisor",
+          "date": "8 November 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/1_-Cottage-_outdoor_camping_travel.png",
+      "pro_count": "14",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "16",
+      "rating_percentage": "98",
+      "feature": "Dining",
+      "con_count": "0",
+      "id_feature": "dining",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r333199963-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1450224000.0,
+          "author": [
+            "svati_onthemove"
+          ],
+          "text": "Dinner at the open air, fireside dining area was magical.",
+          "source_text": "Tripadvisor",
+          "date": "16 December 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r324974029-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1446854400.0,
+          "author": [
+            "394rishik"
+          ],
+          "text": "I like the small bonfire and cute jungle dining experience.",
+          "source_text": "Tripadvisor",
+          "date": "7 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r308003786-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1441670400.0,
+          "author": [
+            "SharvariPandit"
+          ],
+          "text": "The sit out restaurant areas is lovely, gives a feel of dining in the jungle.",
+          "source_text": "Tripadvisor",
+          "date": "8 September 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r252054985-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1422748800.0,
+          "author": [
+            "Samreen K"
+          ],
+          "text": "It gives you a new perspective on dining under the stars.",
+          "source_text": "Tripadvisor",
+          "date": "1 February 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/026_interior_furniture_dining_table.png",
+      "pro_count": "16",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "16",
+      "rating_percentage": "98",
+      "feature": "Hill",
+      "con_count": "0",
+      "id_feature": "hill",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r362222700-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459987200.0,
+          "author": [
+            "dsouzaroy23"
+          ],
+          "text": "Courteous staff and great surroundings with mountains and hill view.",
+          "source_text": "Tripadvisor",
+          "date": "7 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r346031224-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1454976000.0,
+          "author": [
+            "KanakKabra"
+          ],
+          "text": "This place is located amidst lush green tall trees, surrounded by hills.",
+          "source_text": "Tripadvisor",
+          "date": "9 February 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r290764163-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437350400.0,
+          "author": [
+            "kapoor_varun"
+          ],
+          "text": "Some of the tree houses face the hills and valley and have glass walls.",
+          "source_text": "Tripadvisor",
+          "date": "20 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r188535215-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1388016000.0,
+          "summarized_phrase": "heaven in the hills",
+          "author": [
+            "juhi_email"
+          ],
+          "text": "\u201cHeaven in the hills\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "26 December 2013",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/10.png",
+      "pro_count": "16",
+      "highlight": "false",
+      "snippets": "'verdant hills invite you to take a climb'"
+    },
+    {
+      "rating": "3.8",
+      "font_size": "small",
+      "title": "average",
+      "total_count": "15",
+      "rating_percentage": "77",
+      "feature": "Tea",
+      "con_count": "3",
+      "id_feature": "tea",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r340578888-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452988800.0,
+          "author": [
+            "SFO_2"
+          ],
+          "text": "It is better to order the perculator in the room so one can have hot tea. .",
+          "source_text": "Tripadvisor",
+          "date": "17 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r338853987-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452384000.0,
+          "author": [
+            "EarthAndMore"
+          ],
+          "text": "Eat, rest, sleep and tea. .",
+          "source_text": "Tripadvisor",
+          "date": "10 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335048393-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451088000.0,
+          "author": [
+            "chichi_chem"
+          ],
+          "text": "Especially the tea and pakodas is a great combo.",
+          "source_text": "Tripadvisor",
+          "date": "26 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "author": [
+            "Sachin M"
+          ],
+          "text": "High tea was also very special occassion. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/_organic_tea.png",
+      "pro_count": "12",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "15",
+      "rating_percentage": "97",
+      "feature": "Mountain",
+      "con_count": "0",
+      "id_feature": "mountain",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r362222700-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459987200.0,
+          "summarized_phrase": "great surroundings with mountains",
+          "author": [
+            "dsouzaroy23"
+          ],
+          "text": "Courteous staff and great surroundings with mountains and hill view.",
+          "source_text": "Tripadvisor",
+          "date": "7 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r303928636-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1440633600.0,
+          "author": [
+            "bsd3214"
+          ],
+          "text": "We stayed at the Heritage Machan which has breathtaking view of the mountains.",
+          "source_text": "Tripadvisor",
+          "date": "27 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r191774286-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1390435200.0,
+          "author": [
+            "shailesh2472"
+          ],
+          "text": "Wake up to see the mountains looking at you.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/moutain2.png",
+      "pro_count": "15",
+      "highlight": "false",
+      "snippets": "'great surroundings with mountains'"
+    },
+    {
+      "rating": "4.5",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "14",
+      "rating_percentage": "90",
+      "feature": "Style",
+      "con_count": "1",
+      "id_feature": "style",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r340161004-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452816000.0,
+          "summarized_phrase": "small variety cooked in homely style does n't disappoint",
+          "author": [
+            "Kamlesh A"
+          ],
+          "text": "Small variety cooked in homely style doesn't disappoint.",
+          "source_text": "Tripadvisor",
+          "date": "15 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268401344-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430179200.0,
+          "author": [
+            "Jimeetjim"
+          ],
+          "text": "The serving and sitting style was very nice.",
+          "source_text": "Tripadvisor",
+          "date": "28 April 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r239627462-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1415836800.0,
+          "author": [
+            "Likhil"
+          ],
+          "text": "Food was home style with less oil.",
+          "source_text": "Tripadvisor",
+          "date": "13 November 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r219606089-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1407196800.0,
+          "author": [
+            "Shreeviji"
+          ],
+          "text": "Very well done, well maintained, excellent service and great home style food.",
+          "source_text": "Tripadvisor",
+          "date": "5 August 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/format-underline.png",
+      "pro_count": "13",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.5",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "13",
+      "rating_percentage": "90",
+      "feature": "Loft",
+      "con_count": "1",
+      "id_feature": "loft",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r338468492-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1452211200.0,
+          "author": [
+            "PTsays"
+          ],
+          "text": "We had the loft also and our kids were thrilled to bits.",
+          "source_text": "Tripadvisor",
+          "date": "8 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r249969172-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421625600.0,
+          "author": [
+            "RadhikaKuldeep"
+          ],
+          "text": "The Machan was big and spacious, with a loft for additional guests.",
+          "source_text": "Tripadvisor",
+          "date": "19 January 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r217913443-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406505600.0,
+          "author": [
+            "pixie136"
+          ],
+          "text": "Loft in Forest is very good and overlooks the main room.",
+          "source_text": "Tripadvisor",
+          "date": "28 July 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r208961543-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1401926400.0,
+          "author": [
+            "percy_talati"
+          ],
+          "text": "The morning view from the loft was equally breadth taking.",
+          "source_text": "Tripadvisor",
+          "date": "5 June 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/24.png",
+      "pro_count": "12",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "13",
+      "rating_percentage": "99",
+      "feature": "Interior",
+      "con_count": "0",
+      "id_feature": "interior",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r304703557-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1440806400.0,
+          "summarized_phrase": "beautifully done with good interiors",
+          "author": [
+            "Paritosh1521"
+          ],
+          "text": "We stayed at Cabins which are beautifully done with good interiors.",
+          "source_text": "Tripadvisor",
+          "date": "29 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r289839075-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437091200.0,
+          "author": [
+            "neha p"
+          ],
+          "text": "The machan wooden interior just added on to the beauty. .",
+          "source_text": "Tripadvisor",
+          "date": "17 July 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "summarized_phrase": "interior is amazing",
+          "author": [
+            "Sachin M"
+          ],
+          "text": "Their interior is amazing. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r218653156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406764800.0,
+          "summarized_phrase": "interiors were nice",
+          "author": [
+            "ameyajk"
+          ],
+          "text": "The room was clean and the interiors were nice.",
+          "source_text": "Tripadvisor",
+          "date": "31 July 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/light-decor-interior-sroom.png",
+      "pro_count": "13",
+      "highlight": "false",
+      "snippets": "'interior was stunning'"
+    },
+    {
+      "rating": "4.6",
+      "font_size": "normal",
+      "title": "excellent",
+      "total_count": "40",
+      "rating_percentage": "92",
+      "feature": "House",
+      "con_count": "2",
+      "id_feature": "house",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335733013-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451347200.0,
+          "author": [
+            "Sulakshana S"
+          ],
+          "text": "It is literally a tree house. Tree bungalow would be more apt.",
+          "source_text": "Tripadvisor",
+          "date": "29 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r198077618-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1395273600.0,
+          "author": [
+            "csippy46"
+          ],
+          "text": "The tree houses have all of the modern conveniences minus a few.",
+          "source_text": "Tripadvisor",
+          "date": "20 March 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r187235141-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1386633600.0,
+          "summarized_phrase": "best tree house experience ever",
+          "author": [
+            "Stella312"
+          ],
+          "text": "\u201cBest Tree-house Experience Ever! \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "10 December 2013",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r168411010-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1374364800.0,
+          "author": [
+            "Bish_Paul"
+          ],
+          "text": "\u201cSuperb stay in a tree house @ Lonavala\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "21 July 2013",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/apartment-door-home-house.png",
+      "pro_count": "38",
+      "highlight": "false",
+      "snippets": "'best tree house experience ever'"
+    },
+    {
+      "rating": "3.9",
+      "font_size": "small",
+      "title": "average",
+      "total_count": "11",
+      "rating_percentage": "78",
+      "feature": "Comfort",
+      "con_count": "2",
+      "id_feature": "comfort",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r292598693-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437868800.0,
+          "author": [
+            "142vidhis"
+          ],
+          "text": "\u201cClosest to nature you can get but with amenities and comfort! \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "26 July 2015"
+        },
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r270497676-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430956800.0,
+          "author": [
+            "sidsu"
+          ],
+          "text": "It seems unfair to charge such a steep price and then be denied basic comfort.",
+          "source_text": "Tripadvisor",
+          "date": "7 May 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r210441252-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1402790400.0,
+          "author": [
+            "now_abhi"
+          ],
+          "text": "\u201cBest of View and comfort in wilderness. \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "15 June 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r192529319-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1391040000.0,
+          "author": [
+            "sonaliawasthi"
+          ],
+          "text": "Experiencing nature with the basic comforts in place.",
+          "source_text": "Tripadvisor",
+          "date": "30 January 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/297.png",
+      "pro_count": "9",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.4",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "11",
+      "rating_percentage": "87",
+      "feature": "Welcome",
+      "con_count": "1",
+      "id_feature": "welcome",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r272937467-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1431993600.0,
+          "author": [
+            "Sachin M"
+          ],
+          "text": "Offered us Welcome Drink. .",
+          "source_text": "Tripadvisor",
+          "date": "19 May 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268098916-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430006400.0,
+          "author": [
+            "Apurva_AJ"
+          ],
+          "text": "We were greeted with utmost warmth and the best welcome lunch ever.",
+          "source_text": "Tripadvisor",
+          "date": "26 April 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r242879689-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417651200.0,
+          "author": [
+            "Sona M"
+          ],
+          "text": "The staff is welcoming. Reception desk itself is an open wooden structure.",
+          "source_text": "Tripadvisor",
+          "date": "4 December 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r214940547-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1405123200.0,
+          "author": [
+            "NamanJ2608"
+          ],
+          "text": "As i entered the property the staff was very friendly and had a warm welcome.",
+          "source_text": "Tripadvisor",
+          "date": "12 July 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/9_mobile_namste_greeting_welcome_concept_culture_tradition.png",
+      "pro_count": "10",
+      "highlight": "false",
+      "snippets": "'wonderful welcome'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "11",
+      "rating_percentage": "97",
+      "feature": "Spa",
+      "con_count": "0",
+      "id_feature": "spa",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r371994211-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1462924800.0,
+          "author": [
+            "sasha1904"
+          ],
+          "text": "E) Do try their Spa. Well trained staff there.",
+          "source_text": "Tripadvisor",
+          "date": "11 May 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r335061115-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1451088000.0,
+          "summarized_phrase": "time in d spa as well",
+          "author": [
+            "Urvashi K"
+          ],
+          "text": "I spent some time in d spa as well. .",
+          "source_text": "Tripadvisor",
+          "date": "26 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r329855076-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448841600.0,
+          "summarized_phrase": "spa was also great",
+          "author": [
+            "illusion108"
+          ],
+          "text": "The Spa was also great and very relaxing set amidst the forest.",
+          "source_text": "Tripadvisor",
+          "date": "30 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r274914071-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1432684800.0,
+          "summarized_phrase": "spa was also nice",
+          "author": [
+            "Shruti D"
+          ],
+          "text": "The spa was also nice. The lady there was good.",
+          "source_text": "Tripadvisor",
+          "date": "27 May 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/massage_spa_relax_beauty.png",
+      "pro_count": "11",
+      "highlight": "false",
+      "snippets": "'time in d spa as well', 'spa was also nice'"
+    },
+    {
+      "rating": "3.9",
+      "font_size": "small",
+      "title": "average",
+      "total_count": "10",
+      "rating_percentage": "79",
+      "feature": "Room Service",
+      "con_count": "2",
+      "id_feature": "room-service",
+      "examples": [
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r380486399-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1465257600.0,
+          "author": [
+            "Aishwaryaanwala"
+          ],
+          "text": "Room service on slower side. .",
+          "source_text": "Tripadvisor",
+          "date": "7 June 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r304965941-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1440892800.0,
+          "author": [
+            "Sarbajit G"
+          ],
+          "text": "Room service is available and we found it good.",
+          "source_text": "Tripadvisor",
+          "date": "30 August 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r252054985-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1422748800.0,
+          "author": [
+            "Samreen K"
+          ],
+          "text": "Room service takes about 30-40 minutes so plan accordingly.",
+          "source_text": "Tripadvisor",
+          "date": "1 February 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r242879689-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417651200.0,
+          "author": [
+            "Sona M"
+          ],
+          "text": "Heritage room service was an added bonus for dinner.",
+          "source_text": "Tripadvisor",
+          "date": "4 December 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/88_-Room_Service-_hotel_service_travel.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.3",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "10",
+      "rating_percentage": "87",
+      "feature": "Fireplace",
+      "con_count": "1",
+      "id_feature": "fireplace",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r230337674-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1411344000.0,
+          "summarized_phrase": "fireplace is amazing",
+          "author": [
+            "Sabah80"
+          ],
+          "text": "U must stay in a forest machan, the fireplace is amazing! !",
+          "source_text": "Tripadvisor",
+          "date": "22 September 2014",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r175487976-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1378166400.0,
+          "author": [
+            "smitapathak05"
+          ],
+          "text": "The dinners felt elegant - candlelit and drinks around the fireplace.",
+          "source_text": "Tripadvisor",
+          "date": "3 September 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/78_-_Fireplace_households_furniture_belongings.png",
+      "pro_count": "9",
+      "highlight": "false",
+      "snippets": "'fireplace is amazing'"
+    },
+    {
+      "rating": "4.4",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "10",
+      "rating_percentage": "87",
+      "feature": "Summer",
+      "con_count": "1",
+      "id_feature": "summer",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r367677103-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1461628800.0,
+          "author": [
+            "Sonia T"
+          ],
+          "text": "Stayed in the summer however the weather was still perfect. .",
+          "source_text": "Tripadvisor",
+          "date": "26 April 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r308003786-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1441670400.0,
+          "author": [
+            "SharvariPandit"
+          ],
+          "text": "We visited this place at the beginning of summers but the weather was pleasant.",
+          "source_text": "Tripadvisor",
+          "date": "8 September 2015"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/sunglasses.png",
+      "pro_count": "9",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.3",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "10",
+      "rating_percentage": "86",
+      "feature": "Value",
+      "con_count": "1",
+      "id_feature": "value",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r359570785-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459209600.0,
+          "author": [
+            "sandhu_gs"
+          ],
+          "text": "Food rates are reasonable and good value considering the place and experience !",
+          "source_text": "Tripadvisor",
+          "date": "29 March 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r289839075-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437091200.0,
+          "author": [
+            "neha p"
+          ],
+          "text": "Value for price. .",
+          "source_text": "Tripadvisor",
+          "date": "17 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r228026398-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1410307200.0,
+          "author": [
+            "RLM551022"
+          ],
+          "text": "It definitely has a repeat value. .",
+          "source_text": "Tripadvisor",
+          "date": "10 September 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r201999928-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1398038400.0,
+          "author": [
+            "Anitamakhija"
+          ],
+          "text": "A great value for every bit of money I spent here! !",
+          "source_text": "Tripadvisor",
+          "date": "21 April 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/gold-ingot-value.png",
+      "pro_count": "9",
+      "highlight": "false",
+      "snippets": "'sanat   are great guys who value quality'"
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "9",
+      "rating_percentage": "98",
+      "feature": "Decor",
+      "con_count": "0",
+      "id_feature": "decor",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r330068608-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448928000.0,
+          "author": [
+            "Thelapillil"
+          ],
+          "text": "The cottage allotted to us was excellent in terms of location and decor.",
+          "source_text": "Tripadvisor",
+          "date": "1 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r325222018-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1446940800.0,
+          "author": [
+            "cdr_ashish"
+          ],
+          "text": "The cottage decor was tastefully done.",
+          "source_text": "Tripadvisor",
+          "date": "8 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r262493097-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1427587200.0,
+          "author": [
+            "ridhesh"
+          ],
+          "text": "The decor of the rooms is impeccable and so is the vibe of the place.",
+          "source_text": "Tripadvisor",
+          "date": "29 March 2015",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r241831747-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417132800.0,
+          "author": [
+            "SanjuktaMS"
+          ],
+          "text": "The food, ambiance, amenities, decor and the care provided was amazing!",
+          "source_text": "Tripadvisor",
+          "date": "28 November 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/5.png",
+      "pro_count": "9",
+      "highlight": "false",
+      "snippets": "'decor of all the machans is impeccable'"
+    },
+    {
+      "rating": "4.2",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "8",
+      "rating_percentage": "84",
+      "feature": "Wedding",
+      "con_count": "1",
+      "id_feature": "wedding",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r351224359-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1456531200.0,
+          "author": [
+            "SonaliMishra"
+          ],
+          "text": "We visited The Machan on our 1st Wedding Anniversary. .",
+          "source_text": "Tripadvisor",
+          "date": "27 February 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r326139551-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1447286400.0,
+          "author": [
+            "Pooja P"
+          ],
+          "text": "It was out 3rd wedding anniversary and this place made it so much special.",
+          "source_text": "Tripadvisor",
+          "date": "12 November 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r256273002-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1424822400.0,
+          "author": [
+            "VAhuja"
+          ],
+          "text": "We visited The Machan for our second wedding anniversary.",
+          "source_text": "Tripadvisor",
+          "date": "25 February 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r194375919-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1392595200.0,
+          "author": [
+            "aKa24"
+          ],
+          "text": "I had planned this for my wedding anniversary, a surprise gift for my wife.",
+          "source_text": "Tripadvisor",
+          "date": "17 February 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/PRE_WEDDING.png",
+      "pro_count": "7",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.6",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "91",
+      "feature": "Cold",
+      "con_count": "1",
+      "id_feature": "cold",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r301143410-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1439942400.0,
+          "author": [
+            "Rachana W"
+          ],
+          "text": "24 hours hot and cold water available.",
+          "source_text": "Tripadvisor",
+          "date": "19 August 2015"
+        },
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r282351513-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435017600.0,
+          "author": [
+            "zuber_memon"
+          ],
+          "text": "Chapati was cold. 3) For dinner the food spread was \u201cICE COLD\u201d literally.",
+          "source_text": "Tripadvisor",
+          "date": "23 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r250644897-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1421971200.0,
+          "author": [
+            "PeeyuB"
+          ],
+          "text": "A refreshing juice & a cold towel made me come off my journey tiredness.",
+          "source_text": "Tripadvisor",
+          "date": "23 January 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r233651225-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1412899200.0,
+          "author": [
+            "LionelFernandes"
+          ],
+          "text": "And importantly always warm despite the cold. .",
+          "source_text": "Tripadvisor",
+          "date": "10 October 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/snowflake.png",
+      "pro_count": "7",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "97",
+      "feature": "Retreat",
+      "con_count": "0",
+      "id_feature": "retreat",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r363804069-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1460505600.0,
+          "author": [
+            "Aarti K"
+          ],
+          "text": "Perfect retreat from our busy lives. Just go and switch off all your stress.",
+          "source_text": "Tripadvisor",
+          "date": "13 April 2016",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r289354747-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1437004800.0,
+          "author": [
+            "Shamparoy"
+          ],
+          "text": "\u201cA true retreat in the lap of nature\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "16 July 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r237050783-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1414627200.0,
+          "author": [
+            "sameer g"
+          ],
+          "text": "\u201cWonderful nature retreat\u201d . It's a must stay place for nature lovers!",
+          "source_text": "Tripadvisor",
+          "date": "30 October 2014",
+          "super": true
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r231363938-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1411862400.0,
+          "summarized_phrase": "ideal retreat",
+          "author": [
+            "Anamika_Butalia"
+          ],
+          "text": "\u201cIdeal retreat! \u201d .",
+          "source_text": "Tripadvisor",
+          "date": "28 September 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/group-retreat.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": "'ideal retreat'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "97",
+      "feature": "Charm",
+      "con_count": "0",
+      "id_feature": "charm",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r333199963-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1450224000.0,
+          "author": [
+            "svati_onthemove"
+          ],
+          "text": "We stayed in one of the cabins (the least expensive option) and were charmed.",
+          "source_text": "Tripadvisor",
+          "date": "16 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r218636797-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406764800.0,
+          "author": [
+            "dineshpandit"
+          ],
+          "text": "Your reception and fire place is having some subtle magnetic charm. Keep it up.",
+          "source_text": "Tripadvisor",
+          "date": "31 July 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r188027858-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1387411200.0,
+          "author": [
+            "gypsymusings"
+          ],
+          "text": "But it adds to the elusiveness and charm. .",
+          "source_text": "Tripadvisor",
+          "date": "19 December 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/muslim-charm-hand-eye.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "97",
+      "feature": "Breeze",
+      "con_count": "0",
+      "id_feature": "breeze",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r242879689-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1417651200.0,
+          "author": [
+            "Sona M"
+          ],
+          "text": "The sunrise, the morning breeze was extremely rejuvenating.",
+          "source_text": "Tripadvisor",
+          "date": "4 December 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r196091331-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1393891200.0,
+          "author": [
+            "pransu2011"
+          ],
+          "text": "Just sit in the homsted and enjoy the cool breeze.",
+          "source_text": "Tripadvisor",
+          "date": "4 March 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r166867646-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1373328000.0,
+          "author": [
+            "Indranil_Dasgupta"
+          ],
+          "text": "Gentle breeze. Friendly staff who were always eager to help.",
+          "source_text": "Tripadvisor",
+          "date": "9 July 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/wind.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "96",
+      "feature": "Run",
+      "con_count": "0",
+      "id_feature": "run",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r233651225-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1412899200.0,
+          "author": [
+            "LionelFernandes"
+          ],
+          "text": "With 24 running hot/cold water. .",
+          "source_text": "Tripadvisor",
+          "date": "10 October 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r166867646-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1373328000.0,
+          "author": [
+            "Indranil_Dasgupta"
+          ],
+          "text": "I liked that, as this place runs on its own reputation.",
+          "source_text": "Tripadvisor",
+          "date": "9 July 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/run_exit_1.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "8",
+      "rating_percentage": "98",
+      "feature": "Roof",
+      "con_count": "0",
+      "id_feature": "roof",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r361583125-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1459728000.0,
+          "author": [
+            "Ahmad N"
+          ],
+          "text": "Cosy, with a slanting view of the roof of the living room.",
+          "source_text": "Tripadvisor",
+          "date": "4 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r329632699-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1448755200.0,
+          "author": [
+            "Bharadwaj G"
+          ],
+          "text": "Roof being transparent its brilliant to watch the clear skies!",
+          "source_text": "Tripadvisor",
+          "date": "29 November 2015",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/home.png",
+      "pro_count": "8",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "3.5",
+      "font_size": "small",
+      "title": "average",
+      "total_count": "7",
+      "rating_percentage": "71",
+      "feature": "Gate",
+      "con_count": "2",
+      "id_feature": "gate",
+      "examples": [
+        {
+          "polarity": "con",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r364837156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1460851200.0,
+          "author": [
+            "jsidhva"
+          ],
+          "text": "Being a gated property the car had to be tampered by an employee or guest.",
+          "source_text": "Tripadvisor",
+          "date": "17 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r204079103-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1399248000.0,
+          "author": [
+            "slimaye"
+          ],
+          "text": "And from the Machan gate to the reception is a total off-roading experience ! !",
+          "source_text": "Tripadvisor",
+          "date": "5 May 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/020_gate_way_gateway_traffic.png",
+      "pro_count": "5",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.1",
+      "font_size": "small",
+      "title": "good",
+      "total_count": "7",
+      "rating_percentage": "82",
+      "feature": "Chocolate",
+      "con_count": "1",
+      "id_feature": "chocolate",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r341123565-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1453161600.0,
+          "author": [
+            "DDave01"
+          ],
+          "text": "They even arranged for a chocolate fudge for my anniversary. .",
+          "source_text": "Tripadvisor",
+          "date": "19 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r268451174-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1430179200.0,
+          "author": [
+            "MaheshSRao"
+          ],
+          "text": "Varun sent us a delightful chocolate fudge - truly hospitality at its best!",
+          "source_text": "Tripadvisor",
+          "date": "28 April 2015",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/candy_sugar_chocolate_tasty.png",
+      "pro_count": "6",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "7",
+      "rating_percentage": "97",
+      "feature": "Architecture",
+      "con_count": "0",
+      "id_feature": "architecture",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r333199963-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1450224000.0,
+          "author": [
+            "svati_onthemove"
+          ],
+          "text": "The architecture and design are very appealing.",
+          "source_text": "Tripadvisor",
+          "date": "16 December 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r223558292-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1408665600.0,
+          "author": [
+            "AnkitVatsa"
+          ],
+          "text": "\u201cAmazing View (Canopy 1) and Creative Architecture\u201d .",
+          "source_text": "Tripadvisor",
+          "date": "22 August 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r218653156-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1406764800.0,
+          "summarized_phrase": "good architecture",
+          "author": [
+            "ameyajk"
+          ],
+          "text": "\u201cExcellent Location, Good Architecture, Overpriced! !",
+          "source_text": "Tripadvisor",
+          "date": "31 July 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r184833257-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1384560000.0,
+          "author": [
+            "Ameyagats"
+          ],
+          "text": "Its commendable how all the Machans are built and their architecture.",
+          "source_text": "Tripadvisor",
+          "date": "16 November 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/COLOSSEUM.png",
+      "pro_count": "7",
+      "highlight": "false",
+      "snippets": "'good architecture'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "7",
+      "rating_percentage": "97",
+      "feature": "Winter",
+      "con_count": "0",
+      "id_feature": "winter",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r368681449-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1461888000.0,
+          "author": [
+            "rohandewan1"
+          ],
+          "text": "Also during the winter months the mist beautify's the view.",
+          "source_text": "Tripadvisor",
+          "date": "29 April 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r349390819-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1455926400.0,
+          "author": [
+            "vaubhav"
+          ],
+          "text": "Pls visit In winters or in rains.",
+          "source_text": "Tripadvisor",
+          "date": "20 February 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r277688710-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1433376000.0,
+          "author": [
+            "Milan S"
+          ],
+          "text": "I feel the best time to visit is in Monsoon or during winters.",
+          "source_text": "Tripadvisor",
+          "date": "4 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r197800911-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1395100800.0,
+          "author": [
+            "AJose012"
+          ],
+          "text": "I am sure this will be great place during winters and during rainy seasons.",
+          "source_text": "Tripadvisor",
+          "date": "18 March 2014"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/12_-_Snowflake_Outline.png",
+      "pro_count": "7",
+      "highlight": "false",
+      "snippets": ""
+    },
+    {
+      "rating": "4.9",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "6",
+      "rating_percentage": "98",
+      "feature": "Ambience",
+      "con_count": "0",
+      "id_feature": "ambience",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r284185039-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1435622400.0,
+          "summarized_phrase": "great ambience",
+          "author": [
+            "Renuka_Kadu"
+          ],
+          "text": "Great Ambience. Good Food (need more nonveg variety).",
+          "source_text": "Tripadvisor",
+          "date": "30 June 2015"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r240283329-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1416182400.0,
+          "summarized_phrase": "awesome ambience",
+          "author": [
+            "abhilash272"
+          ],
+          "text": "But it has its own awesome ambience.",
+          "source_text": "Tripadvisor",
+          "date": "17 November 2014",
+          "super": true
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/story.png",
+      "pro_count": "6",
+      "highlight": "false",
+      "snippets": "'particularly the ambience was amazing'"
+    },
+    {
+      "rating": "4.8",
+      "font_size": "small",
+      "title": "excellent",
+      "total_count": "6",
+      "rating_percentage": "97",
+      "feature": "Antique",
+      "con_count": "0",
+      "id_feature": "antique",
+      "examples": [
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r343432426-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1454025600.0,
+          "author": [
+            "Sandesh_N"
+          ],
+          "text": "The rooms are well ventilated with minimum amount of antique type of furniture & fittings.",
+          "source_text": "Tripadvisor",
+          "date": "29 January 2016"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r237929905-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1415059200.0,
+          "author": [
+            "mukhrajs"
+          ],
+          "text": "Rooms are ultra-spacious and all wood donned with antiques. Life seems standstill, almost.",
+          "source_text": "Tripadvisor",
+          "date": "4 November 2014"
+        },
+        {
+          "polarity": "pro",
+          "permalink": "https://www.tripadvisor.in/ShowUserReviews-g608474-d1737216-r184833257-The_Machan-Lonavala_Maharashtra.html",
+          "seconds_from_epoch": 1384560000.0,
+          "author": [
+            "Ameyagats"
+          ],
+          "text": "This one also boasts of some of the antique collections of the owner that adds value to the property.",
+          "source_text": "Tripadvisor",
+          "date": "16 November 2013"
+        }
+      ],
+      "icon_url": "/static/aspectwise/images/icons/16_-Crossbow-_medieval_antique_old.png",
+      "pro_count": "6",
+      "highlight": "false",
+      "snippets": ""
+    }
+  ],
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/9a/fc/1e/heritage-exterior.jpg",
+  "autocomplete_name": "The Machan, Lonavala",
+  "variant_skus": [
+    
+  ],
+  "bb_price": "na",
+  "selected_desires": "Food, View, Room, Nature, Service, Forest, Property, Tree, Dinner, Valley, Family, Walk, Getaway, Location, Sunset, Breakfast, Heritage, Bed, Luxury, Water, Sky, Shower, Design, Tub, Lunch, Sound, Show, Sleep, Cottage, Dining, Hill, Tea, Mountain, Style, Loft, Interior, House, Comfort, Welcome, Spa, Room Service, Fireplace, Summer, Value, Decor, Wedding, Cold, Retreat, Charm, Breeze, Run, Roof, Gate, Chocolate, Architecture, Winter, Ambience, Antique",
+  "images": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/9a/fc/1e/heritage-exterior.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-l/01/ca/67/fa/bedroom.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-l/01/b0/e4/4a/view-from-machan.jpg"
+  ],
+  "canonical_url": "https://www.buzzopinion.com/the-machan--lonavala",
+  "category": "Hotel",
+  "grouped_travel_types": [
+    {
+      "product_types": [
+        {
+          "url": "/best-houses",
+          "display_name": "House",
+          "name": "house",
+          "plural_display_name": "Houses"
+        },
+        {
+          "url": "/best-inns",
+          "display_name": "Inn",
+          "name": "inn",
+          "plural_display_name": "Inns"
+        },
+        {
+          "url": "/best-apartments",
+          "display_name": "Apartment",
+          "name": "apartment",
+          "plural_display_name": "Apartments"
+        },
+        {
+          "url": "/best-lodges",
+          "display_name": "Lodge",
+          "name": "lodge",
+          "plural_display_name": "Lodges"
+        },
+        {
+          "url": "/best-guest-houses",
+          "display_name": "Guest House",
+          "name": "guesthouse",
+          "plural_display_name": "Guest Houses"
+        },
+        {
+          "url": "/best-hostels",
+          "display_name": "Hostel",
+          "name": "hostel",
+          "plural_display_name": "Hostels"
+        },
+        {
+          "url": "/best-villas",
+          "display_name": "Villa",
+          "name": "villa",
+          "plural_display_name": "Villas"
+        },
+        {
+          "url": "/best-cottages",
+          "display_name": "Cottage",
+          "name": "cottage",
+          "plural_display_name": "Cottages"
+        },
+        {
+          "url": "/best-camps",
+          "display_name": "Camp",
+          "name": "camp",
+          "plural_display_name": "Camps"
+        },
+        {
+          "url": "/best-log-cabins",
+          "display_name": "Log Cabin",
+          "name": "logcabin",
+          "plural_display_name": "Log Cabins"
+        }
+      ],
+      "display_name": "Hotel",
+      "group": "Hotel",
+      "name": "hotel",
+      "plural_display_name": "Hotels"
+    },
+    {
+      "product_types": [
+        {
+          "url": "/best-clubs",
+          "display_name": "Club",
+          "name": "club",
+          "plural_display_name": "Clubs"
+        },
+        {
+          "url": "/best-bars",
+          "display_name": "Bar",
+          "name": "bar",
+          "plural_display_name": "Bars"
+        },
+        {
+          "url": "/best-theatres",
+          "display_name": "Theatre",
+          "name": "theatre",
+          "plural_display_name": "Theatres"
+        },
+        {
+          "url": "/best-wineries",
+          "display_name": "Winery",
+          "name": "winery",
+          "plural_display_name": "Wineries"
+        },
+        {
+          "url": "/best-rides",
+          "display_name": "Ride",
+          "name": "ride",
+          "plural_display_name": "Rides"
+        },
+        {
+          "url": "/best-shows",
+          "display_name": "Show",
+          "name": "show",
+          "plural_display_name": "Shows"
+        },
+        {
+          "url": "/best-theme-parks",
+          "display_name": "Theme Park",
+          "name": "themepark",
+          "plural_display_name": "Theme Parks"
+        },
+        {
+          "url": "/best-water-parks",
+          "display_name": "Water Park",
+          "name": "waterpark",
+          "plural_display_name": "Water Parks"
+        },
+        {
+          "url": "/best-casinos",
+          "display_name": "Casino",
+          "name": "casino",
+          "plural_display_name": "Casinos"
+        },
+        {
+          "url": "/best-aquariums",
+          "display_name": "Aquarium",
+          "name": "aquarium",
+          "plural_display_name": "Aquariums"
+        },
+        {
+          "url": "/best-arcades",
+          "display_name": "Arcade",
+          "name": "arcade",
+          "plural_display_name": "Arcades"
+        },
+        {
+          "url": "/best-amusement-parks",
+          "display_name": "Amusement Park",
+          "name": "amusementpark",
+          "plural_display_name": "Amusement Parks"
+        }
+      ],
+      "display_name": "Fun & Entertainment",
+      "group": "Fun & Entertainment",
+      "name": "funentertainment",
+      "plural_display_name": "Fun & Entertainments"
+    },
+    {
+      "product_types": [
+        {
+          "url": "/best-tours",
+          "display_name": "Tour",
+          "name": "tour",
+          "plural_display_name": "Tours"
+        },
+        {
+          "url": "/best-cruises",
+          "display_name": "Cruise",
+          "name": "cruise",
+          "plural_display_name": "Cruises"
+        },
+        {
+          "url": "/best-private-tours",
+          "display_name": "Private Tour",
+          "name": "privatetour",
+          "plural_display_name": "Private Tours"
+        },
+        {
+          "url": "/best-boat-tours",
+          "display_name": "Boat Tour",
+          "name": "boattour",
+          "plural_display_name": "Boat Tours"
+        },
+        {
+          "url": "/best-dive-centers",
+          "display_name": "Dive Center",
+          "name": "divecenter",
+          "plural_display_name": "Dive Centers"
+        },
+        {
+          "url": "/best-walking-tours",
+          "display_name": "Walking Tour",
+          "name": "walkingtour",
+          "plural_display_name": "Walking Tours"
+        },
+        {
+          "url": "/best-flights",
+          "display_name": "Flight Tour",
+          "name": "flighttour",
+          "plural_display_name": "Flights"
+        },
+        {
+          "url": "/best-bike-tours",
+          "display_name": "Bike Tour",
+          "name": "biketour",
+          "plural_display_name": "Bike Tours"
+        },
+        {
+          "url": "/best-safaris",
+          "display_name": "Safari",
+          "name": "safari",
+          "plural_display_name": "Safaris"
+        },
+        {
+          "url": "/best-ski-resorts",
+          "display_name": "Ski Resort",
+          "name": "skiresort",
+          "plural_display_name": "Ski Resorts"
+        },
+        {
+          "url": "/best-food-tours",
+          "display_name": "Food Tour",
+          "name": "foodtour",
+          "plural_display_name": "Food Tours"
+        }
+      ],
+      "display_name": "Tours & Adventure",
+      "group": "Tours & Adventure",
+      "name": "toursadventure",
+      "plural_display_name": "Tours & Adventures"
+    },
+    {
+      "product_types": [
+        {
+          "url": "/best-museums",
+          "display_name": "Museum",
+          "name": "museum",
+          "plural_display_name": "Museums"
+        },
+        {
+          "url": "/best-sites",
+          "display_name": "Site",
+          "name": "site",
+          "plural_display_name": "Sites"
+        },
+        {
+          "url": "/best-churches",
+          "display_name": "Church",
+          "name": "church",
+          "plural_display_name": "Churches"
+        },
+        {
+          "url": "/best-art-galleries",
+          "display_name": "Art Gallery",
+          "name": "artgallery",
+          "plural_display_name": "Art Galleries"
+        },
+        {
+          "url": "/best-monuments",
+          "display_name": "Monument",
+          "name": "monument",
+          "plural_display_name": "Monuments"
+        },
+        {
+          "url": "/best-castles",
+          "display_name": "Castle",
+          "name": "castle",
+          "plural_display_name": "Castles"
+        },
+        {
+          "url": "/best-temples",
+          "display_name": "Temple",
+          "name": "temple",
+          "plural_display_name": "Temples"
+        },
+        {
+          "url": "/best-ruins",
+          "display_name": "Ruin",
+          "name": "ruin",
+          "plural_display_name": "Ruins"
+        },
+        {
+          "url": "/best-palaces",
+          "display_name": "Palace",
+          "name": "palace",
+          "plural_display_name": "Palaces"
+        },
+        {
+          "url": "/best-memorials",
+          "display_name": "Memorial",
+          "name": "memorial",
+          "plural_display_name": "Memorials"
+        },
+        {
+          "url": "/best-forts",
+          "display_name": "Fort",
+          "name": "fort",
+          "plural_display_name": "Forts"
+        },
+        {
+          "url": "/best-monasteries",
+          "display_name": "Monastery",
+          "name": "monastery",
+          "plural_display_name": "Monasteries"
+        },
+        {
+          "url": "/best-mosques",
+          "display_name": "Mosque",
+          "name": "mosque",
+          "plural_display_name": "Mosques"
+        }
+      ],
+      "display_name": "History & Religion",
+      "group": "History & Religion",
+      "name": "historyreligion",
+      "plural_display_name": "History & Religions"
+    },
+    {
+      "product_types": [
+        {
+          "url": "/best-shops",
+          "display_name": "Shop",
+          "name": "shop",
+          "plural_display_name": "Shops"
+        },
+        {
+          "url": "/best-gift-shops",
+          "display_name": "Gift Shop",
+          "name": "giftshop",
+          "plural_display_name": "Gift Shops"
+        },
+        {
+          "url": "/best-markets",
+          "display_name": "Market",
+          "name": "market",
+          "plural_display_name": "Markets"
+        },
+        {
+          "url": "/best-malls",
+          "display_name": "Mall",
+          "name": "mall",
+          "plural_display_name": "Malls"
+        },
+        {
+          "url": "/best-streets",
+          "display_name": "Street",
+          "name": "street",
+          "plural_display_name": "Streets"
+        },
+        {
+          "url": "/best-squares",
+          "display_name": "Square",
+          "name": "square",
+          "plural_display_name": "Squares"
+        }
+      ],
+      "display_name": "Shopping & Culture",
+      "group": "Shopping & Culture",
+      "name": "shoppingculture",
+      "plural_display_name": "Shopping & Cultures"
+    },
+    {
+      "product_types": [
+        {
+          "url": "/best-parks",
+          "display_name": "Park",
+          "name": "park",
+          "plural_display_name": "Parks"
+        },
+        {
+          "url": "/best-beaches",
+          "display_name": "Beach",
+          "name": "beach",
+          "plural_display_name": "Beaches"
+        },
+        {
+          "url": "/best-gardens",
+          "display_name": "Garden",
+          "name": "garden",
+          "plural_display_name": "Gardens"
+        },
+        {
+          "url": "/best-trails",
+          "display_name": "Trail",
+          "name": "trail",
+          "plural_display_name": "Trails"
+        },
+        {
+          "url": "/best-waterfalls",
+          "display_name": "Waterfall",
+          "name": "waterfall",
+          "plural_display_name": "Waterfalls"
+        },
+        {
+          "url": "/best-lakes",
+          "display_name": "Lake",
+          "name": "lake",
+          "plural_display_name": "Lakes"
+        },
+        {
+          "url": "/best-forests",
+          "display_name": "Forest",
+          "name": "forest",
+          "plural_display_name": "Forests"
+        },
+        {
+          "url": "/best-mountains",
+          "display_name": "Mountain",
+          "name": "mountain",
+          "plural_display_name": "Mountains"
+        },
+        {
+          "url": "/best-islands",
+          "display_name": "Island",
+          "name": "island",
+          "plural_display_name": "Islands"
+        },
+        {
+          "url": "/best-caves",
+          "display_name": "Cave",
+          "name": "cave",
+          "plural_display_name": "Caves"
+        },
+        {
+          "url": "/best-drives",
+          "display_name": "Drive",
+          "name": "drive",
+          "plural_display_name": "Drives"
+        },
+        {
+          "url": "/best-canyons",
+          "display_name": "Canyon",
+          "name": "canyon",
+          "plural_display_name": "Canyons"
+        }
+      ],
+      "display_name": "Nature & Beauty",
+      "group": "Nature & Beauty",
+      "name": "naturebeauty",
+      "plural_display_name": "Nature & Beauties"
+    }
+  ],
+  "display_name": "The Machan",
+  "product_types": [
+    {
+      "display_name": "Hotel",
+      "name": "hotel",
+      "plural_display_name": "Hotels"
+    },
+    {
+      "display_name": "Attraction",
+      "name": "attraction",
+      "plural_display_name": "Attractions"
+    },
+    {
+      "display_name": "Mobile",
+      "name": "mobile",
+      "plural_display_name": "Mobiles"
+    },
+    {
+      "display_name": "Headphone",
+      "name": "headphone",
+      "plural_display_name": "Headphones"
+    },
+    {
+      "display_name": "Laptop",
+      "name": "laptop",
+      "plural_display_name": "Laptops"
+    },
+    {
+      "display_name": "Television",
+      "name": "television",
+      "plural_display_name": "Televisions"
+    },
+    {
+      "display_name": "Power Bank",
+      "name": "power_bank",
+      "plural_display_name": "Power Banks"
+    },
+    {
+      "display_name": "Speaker",
+      "name": "speaker",
+      "plural_display_name": "Speakers"
+    },
+    {
+      "display_name": "Mixer",
+      "name": "mixer",
+      "plural_display_name": "Mixers"
+    },
+    {
+      "display_name": "Air Conditioner",
+      "name": "air_conditioner",
+      "plural_display_name": "Air Conditioners"
+    },
+    {
+      "display_name": "Refrigerator",
+      "name": "refrigerator",
+      "plural_display_name": "Refrigerators"
+    },
+    {
+      "display_name": "Mouse",
+      "name": "mouse",
+      "plural_display_name": "Mouses"
+    },
+    {
+      "display_name": "Tablet",
+      "name": "tablet",
+      "plural_display_name": "Tablets"
+    },
+    {
+      "display_name": "Washing Machine",
+      "name": "washing_machine",
+      "plural_display_name": "Washing Machines"
+    },
+    {
+      "display_name": "Trimmer",
+      "name": "trimmer",
+      "plural_display_name": "Trimmers"
+    },
+    {
+      "display_name": "Pen Drive",
+      "name": "pen_drive",
+      "plural_display_name": "Pen Drives"
+    },
+    {
+      "display_name": "Fan",
+      "name": "fan",
+      "plural_display_name": "Fans"
+    },
+    {
+      "display_name": "Irons",
+      "name": "irons",
+      "plural_display_name": "Irons"
+    },
+    {
+      "display_name": "Mobile Charger",
+      "name": "mobile_charger",
+      "plural_display_name": "Mobile Chargers"
+    },
+    {
+      "display_name": "Pressure Cooker",
+      "name": "pressure_cooker",
+      "plural_display_name": "Pressure Cookers"
+    },
+    {
+      "display_name": "Geyser",
+      "name": "geyser",
+      "plural_display_name": "Geysers"
+    },
+    {
+      "display_name": "Car Charger",
+      "name": "car_charger",
+      "plural_display_name": "Car Chargers"
+    },
+    {
+      "display_name": "Camera",
+      "name": "camera",
+      "plural_display_name": "Cameras"
+    },
+    {
+      "display_name": "Keyboard",
+      "name": "keyboard",
+      "plural_display_name": "Keyboards"
+    },
+    {
+      "display_name": "Stoves And Hobs",
+      "name": "stoves_and_hobs",
+      "plural_display_name": "Stoves And Hobs"
+    },
+    {
+      "display_name": "Chopper Blender",
+      "name": "chopper_blender",
+      "plural_display_name": "Chopper Blenders"
+    },
+    {
+      "display_name": "Electric Kettle",
+      "name": "electric_kettle",
+      "plural_display_name": "Electric Kettles"
+    },
+    {
+      "display_name": "Printer",
+      "name": "printer",
+      "plural_display_name": "Printers"
+    },
+    {
+      "display_name": "Water Purifier",
+      "name": "water_purifier",
+      "plural_display_name": "Water Purifiers"
+    },
+    {
+      "display_name": "Landline",
+      "name": "landline",
+      "plural_display_name": "Landlines"
+    },
+    {
+      "display_name": "Memory Card",
+      "name": "memory_card",
+      "plural_display_name": "Memory Cards"
+    },
+    {
+      "display_name": "Microwave",
+      "name": "microwave",
+      "plural_display_name": "Microwaves"
+    },
+    {
+      "display_name": "Air Cooler",
+      "name": "air_cooler",
+      "plural_display_name": "Air Coolers"
+    },
+    {
+      "display_name": "Hair Dryer",
+      "name": "hair_dryer",
+      "plural_display_name": "Hair Dryers"
+    },
+    {
+      "display_name": "Vacuum",
+      "name": "vacuum",
+      "plural_display_name": "Vacuums"
+    },
+    {
+      "display_name": "Hard Disk",
+      "name": "hard_disk",
+      "plural_display_name": "Hard Disks"
+    },
+    {
+      "display_name": "Hair Straightener",
+      "name": "hair_straightener",
+      "plural_display_name": "Hair Straighteners"
+    },
+    {
+      "display_name": "Sandwich Maker",
+      "name": "sandwich_maker",
+      "plural_display_name": "Sandwich Makers"
+    },
+    {
+      "display_name": "Induction Top",
+      "name": "induction_top",
+      "plural_display_name": "Induction Tops"
+    },
+    {
+      "display_name": "Shaver",
+      "name": "shaver",
+      "plural_display_name": "Shavers"
+    },
+    {
+      "display_name": "Room Heater",
+      "name": "room_heater",
+      "plural_display_name": "Room Heaters"
+    },
+    {
+      "display_name": "Smartwatch",
+      "name": "smartwatch",
+      "plural_display_name": "Smartwatches"
+    },
+    {
+      "display_name": "Home Theatre",
+      "name": "home_theatre",
+      "plural_display_name": "Home Theatres"
+    },
+    {
+      "display_name": "Air Purifier",
+      "name": "air_purifier",
+      "plural_display_name": "Air Purifiers"
+    },
+    {
+      "display_name": "Electric Cooker",
+      "name": "electric_cooker",
+      "plural_display_name": "Electric Cookers"
+    },
+    {
+      "display_name": "Microsd Card",
+      "name": "microsd_card",
+      "plural_display_name": "Microsd Cards"
+    },
+    {
+      "display_name": "Pop Up Toaster",
+      "name": "pop_up_toaster",
+      "plural_display_name": "Pop Up Toasters"
+    },
+    {
+      "display_name": "Coffee Maker",
+      "name": "coffee_maker",
+      "plural_display_name": "Coffee Makers"
+    },
+    {
+      "display_name": "Mp3 Player",
+      "name": "mp3_player",
+      "plural_display_name": "Mp3 Players"
+    },
+    {
+      "display_name": "Sewing Machine",
+      "name": "sewing_machine",
+      "plural_display_name": "Sewing Machines"
+    },
+    {
+      "display_name": "Fitness Band",
+      "name": "fitness_band",
+      "plural_display_name": "Fitness Bands"
+    },
+    {
+      "display_name": "Stabilizer",
+      "name": "stabilizer",
+      "plural_display_name": "Stabilizers"
+    },
+    {
+      "display_name": "Epilator",
+      "name": "epilator",
+      "plural_display_name": "Epilators"
+    },
+    {
+      "display_name": "Dongle",
+      "name": "dongle",
+      "plural_display_name": "Dongles"
+    },
+    {
+      "display_name": "Ups",
+      "name": "ups",
+      "plural_display_name": "Ups"
+    },
+    {
+      "display_name": "Scanner",
+      "name": "scanner",
+      "plural_display_name": "Scanners"
+    }
+  ],
+  "title": "The Machan",
+  "offers": [
+    
+  ],
+  "location": "Lonavala",
+  "total_offers": 0,
+  "product_name": "df09dddf-56fe-4d56-a1b1-97a306b7f58e",
+  "outlinks": [
+    {
+      "url": "https://www.tripadvisor.in/Hotel_Review-g608474-d1737216-Reviews-The_Machan-Lonavala_Maharashtra.html",
+      "source": "tripadvisor.in"
+    },
+    {
+      "url": "http://www.booking.com/hotel/in/the-machan.html?aid=1295680",
+      "source": "Booking.com"
+    }
+  ],
+  "sku": "df09dddf-56fe-4d56-a1b1-97a306b7f58e",
+  "grouped_product_types": [
+    {
+      "display_name": "Personal Gadgets",
+      "name": "personalgadgets",
+      "product_types": [
+        {
+          "url": "/best-mobiles",
+          "display_name": "Mobile",
+          "name": "mobile",
+          "plural_display_name": "Mobiles",
+          "icon": "/static/aspectwise/images/icons/icon_light-91.png"
+        },
+        {
+          "url": "/best-headphones",
+          "display_name": "Headphone",
+          "name": "headphone",
+          "plural_display_name": "Headphones",
+          "icon": "/static/aspectwise/images/icons/pack8-17.png"
+        },
+        {
+          "url": "/best-laptops",
+          "display_name": "Laptop",
+          "name": "laptop",
+          "plural_display_name": "Laptops",
+          "icon": "/static/aspectwise/images/icons/shop-37.png"
+        },
+        {
+          "url": "/best-tablets",
+          "display_name": "Tablet",
+          "name": "tablet",
+          "plural_display_name": "Tablets",
+          "icon": "/static/aspectwise/images/icons/tablet.png"
+        },
+        {
+          "url": "/best-trimmers",
+          "display_name": "Trimmer",
+          "name": "trimmer",
+          "plural_display_name": "Trimmers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-cameras",
+          "display_name": "Camera",
+          "name": "camera",
+          "plural_display_name": "Cameras",
+          "icon": "/static/aspectwise/images/icons/_camera.png"
+        },
+        {
+          "url": "/best-hair-dryers",
+          "display_name": "Hair Dryer",
+          "name": "hairdryer",
+          "plural_display_name": "Hair Dryers",
+          "icon": "/static/aspectwise/images/icons/32.png"
+        },
+        {
+          "url": "/best-hair-straighteners",
+          "display_name": "Hair Straightener",
+          "name": "hairstraightener",
+          "plural_display_name": "Hair Straighteners",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-shavers",
+          "display_name": "Shaver",
+          "name": "shaver",
+          "plural_display_name": "Shavers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-smartwatches",
+          "display_name": "Smartwatch",
+          "name": "smartwatch",
+          "plural_display_name": "Smartwatches",
+          "icon": "/static/aspectwise/images/icons/Minio_Devices_and_Hardware_Bold-53.png"
+        },
+        {
+          "url": "/best-mp3-players",
+          "display_name": "Mp3 Player",
+          "name": "mp3player",
+          "plural_display_name": "Mp3 Players",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-fitness-bands",
+          "display_name": "Fitness Band",
+          "name": "fitnessband",
+          "plural_display_name": "Fitness Bands",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-epilators",
+          "display_name": "Epilator",
+          "name": "epilator",
+          "plural_display_name": "Epilators",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        }
+      ],
+      "plural_display_name": "Personal Gadgets",
+      "group": "Personal Gadgets",
+      "icon": "/static/aspectwise/images/icons/story.png"
+    },
+    {
+      "display_name": "Peripherals & Accessories",
+      "name": "peripheralsaccessories",
+      "product_types": [
+        {
+          "url": "/best-power-banks",
+          "display_name": "Power Bank",
+          "name": "powerbank",
+          "plural_display_name": "Power Banks",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-mouses",
+          "display_name": "Mouse",
+          "name": "mouse",
+          "plural_display_name": "Mouses",
+          "icon": "/static/aspectwise/images/icons/developer-1-26.png"
+        },
+        {
+          "url": "/best-pen-drives",
+          "display_name": "Pen Drive",
+          "name": "pendrive",
+          "plural_display_name": "Pen Drives",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-mobile-chargers",
+          "display_name": "Mobile Charger",
+          "name": "mobilecharger",
+          "plural_display_name": "Mobile Chargers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-car-chargers",
+          "display_name": "Car Charger",
+          "name": "carcharger",
+          "plural_display_name": "Car Chargers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-keyboards",
+          "display_name": "Keyboard",
+          "name": "keyboard",
+          "plural_display_name": "Keyboards",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-memory-cards",
+          "display_name": "Memory Card",
+          "name": "memorycard",
+          "plural_display_name": "Memory Cards",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-hard-disks",
+          "display_name": "Hard Disk",
+          "name": "harddisk",
+          "plural_display_name": "Hard Disks",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-microsd-cards",
+          "display_name": "Microsd Card",
+          "name": "microsdcard",
+          "plural_display_name": "Microsd Cards",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-dongles",
+          "display_name": "Dongle",
+          "name": "dongle",
+          "plural_display_name": "Dongles",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-ups",
+          "display_name": "Ups",
+          "name": "ups",
+          "plural_display_name": "Ups",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        }
+      ],
+      "plural_display_name": "Peripherals & Accessories",
+      "group": "Peripherals & Accessories",
+      "icon": "/static/aspectwise/images/icons/story.png"
+    },
+    {
+      "display_name": "Household Appliances",
+      "name": "householdappliances",
+      "product_types": [
+        {
+          "url": "/best-air-conditioners",
+          "display_name": "Air Conditioner",
+          "name": "airconditioner",
+          "plural_display_name": "Air Conditioners",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-refrigerators",
+          "display_name": "Refrigerator",
+          "name": "refrigerator",
+          "plural_display_name": "Refrigerators",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-washing-machines",
+          "display_name": "Washing Machine",
+          "name": "washingmachine",
+          "plural_display_name": "Washing Machines",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-fans",
+          "display_name": "Fan",
+          "name": "fan",
+          "plural_display_name": "Fans",
+          "icon": "/static/aspectwise/images/icons/25.png"
+        },
+        {
+          "url": "/best-irons",
+          "display_name": "Irons",
+          "name": "irons",
+          "plural_display_name": "Irons",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-geysers",
+          "display_name": "Geyser",
+          "name": "geyser",
+          "plural_display_name": "Geysers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-air-coolers",
+          "display_name": "Air Cooler",
+          "name": "aircooler",
+          "plural_display_name": "Air Coolers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-vacuums",
+          "display_name": "Vacuum",
+          "name": "vacuum",
+          "plural_display_name": "Vacuums",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-room-heaters",
+          "display_name": "Room Heater",
+          "name": "roomheater",
+          "plural_display_name": "Room Heaters",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-air-purifiers",
+          "display_name": "Air Purifier",
+          "name": "airpurifier",
+          "plural_display_name": "Air Purifiers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-sewing-machines",
+          "display_name": "Sewing Machine",
+          "name": "sewingmachine",
+          "plural_display_name": "Sewing Machines",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-stabilizers",
+          "display_name": "Stabilizer",
+          "name": "stabilizer",
+          "plural_display_name": "Stabilizers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        }
+      ],
+      "plural_display_name": "Household Appliances",
+      "group": "Household Appliances",
+      "icon": "/static/aspectwise/images/icons/story.png"
+    },
+    {
+      "display_name": "Kitchen Appliances",
+      "name": "kitchenappliances",
+      "product_types": [
+        {
+          "url": "/best-mixers",
+          "display_name": "Mixer",
+          "name": "mixer",
+          "plural_display_name": "Mixers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-pressure-cookers",
+          "display_name": "Pressure Cooker",
+          "name": "pressurecooker",
+          "plural_display_name": "Pressure Cookers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-stoves-and-hobs",
+          "display_name": "Stoves And Hobs",
+          "name": "stovesandhobs",
+          "plural_display_name": "Stoves And Hobs",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-electric-kettles",
+          "display_name": "Electric Kettle",
+          "name": "electrickettle",
+          "plural_display_name": "Electric Kettles",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-chopper-blenders",
+          "display_name": "Chopper Blender",
+          "name": "chopperblender",
+          "plural_display_name": "Chopper Blenders",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-water-purifiers",
+          "display_name": "Water Purifier",
+          "name": "waterpurifier",
+          "plural_display_name": "Water Purifiers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-microwaves",
+          "display_name": "Microwave",
+          "name": "microwave",
+          "plural_display_name": "Microwaves",
+          "icon": "/static/aspectwise/images/icons/microwave_oven_cook_food.png"
+        },
+        {
+          "url": "/best-sandwich-makers",
+          "display_name": "Sandwich Maker",
+          "name": "sandwichmaker",
+          "plural_display_name": "Sandwich Makers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-induction-tops",
+          "display_name": "Induction Top",
+          "name": "inductiontop",
+          "plural_display_name": "Induction Tops",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-electric-cookers",
+          "display_name": "Electric Cooker",
+          "name": "electriccooker",
+          "plural_display_name": "Electric Cookers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-pop-up-toasters",
+          "display_name": "Pop Up Toaster",
+          "name": "popuptoaster",
+          "plural_display_name": "Pop Up Toasters",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-coffee-makers",
+          "display_name": "Coffee Maker",
+          "name": "coffeemaker",
+          "plural_display_name": "Coffee Makers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        }
+      ],
+      "plural_display_name": "Kitchen Appliances",
+      "group": "Kitchen Appliances",
+      "icon": "/static/aspectwise/images/icons/story.png"
+    },
+    {
+      "display_name": "Home & Office Electronics",
+      "name": "homeofficeelectronics",
+      "product_types": [
+        {
+          "url": "/best-televisions",
+          "display_name": "Television",
+          "name": "television",
+          "plural_display_name": "Televisions",
+          "icon": "/static/aspectwise/images/icons/iptv-television-online-internet.png"
+        },
+        {
+          "url": "/best-speakers",
+          "display_name": "Speaker",
+          "name": "speaker",
+          "plural_display_name": "Speakers",
+          "icon": "/static/aspectwise/images/icons/101-music-box.png"
+        },
+        {
+          "url": "/best-printers",
+          "display_name": "Printer",
+          "name": "printer",
+          "plural_display_name": "Printers",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-landlines",
+          "display_name": "Landline",
+          "name": "landline",
+          "plural_display_name": "Landlines",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-home-theatres",
+          "display_name": "Home Theatre",
+          "name": "hometheatre",
+          "plural_display_name": "Home Theatres",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        },
+        {
+          "url": "/best-scanners",
+          "display_name": "Scanner",
+          "name": "scanner",
+          "plural_display_name": "Scanners",
+          "icon": "/static/aspectwise/images/icons/story.png"
+        }
+      ],
+      "plural_display_name": "Home & Office Electronics",
+      "group": "Home & Office Electronics",
+      "icon": "/static/aspectwise/images/icons/story.png"
+    }
+  ],
+  "display_searcher_link": true,
+  "specifications": [
+    {
+      "value": "Spa",
+      "label": "Things to do"
+    },
+    {
+      "value": "Suites, Non-Smoking Rooms, Family Rooms, Accessible rooms",
+      "label": "Room types"
+    },
+    {
+      "value": "Air Conditioning, Refrigerator in room, Minibar",
+      "label": "In your room"
+    },
+    {
+      "value": "Room Service, Free Parking, Free Breakfast, Multilingual Staff, Meeting Rooms, Banquet Room, Conference Facilities",
+      "label": "Services"
+    }
+  ],
+  "price": "NA",
+  "searcher_url": "https://www.buzzopinion.com/hotel",
+  "address": "8 km Short of Aamby Valley, Lonavala, India (Formerly The Machan & Camp Canopy)",
+  "slug": "the-machan--lonavala",
+  "page_type": "travel",
+  "images_dicts": [
+    {
+      "source": "Media-Cdn",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/9a/fc/1e/heritage-exterior.jpg"
+    },
+    {
+      "source": "Media-Cdn",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-l/01/ca/67/fa/bedroom.jpg"
+    },
+    {
+      "source": "Media-Cdn",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-l/01/b0/e4/4a/view-from-machan.jpg"
+    }
+  ],
+  "total_count": "510",
+  "rating_percentage": "88",
+  "verdict": {
+    
+  }
+}
