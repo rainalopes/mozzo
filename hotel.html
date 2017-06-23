@@ -11,9 +11,15 @@
 <style type="text/css">
     #chartdiv {
     width       : 100%;
-    height      : 200px;
+    height      : 350px;
     font-size   : 11px;
 }
+
+#chartdiv2 {
+    width   : 100%;
+    height  : 400px;
+    
+}   
 </style>
 <!-- <link rel="stylesheet" type="text/css" href="C:/Users/Mr.Lopes/Desktop/dist/semantic.min.css"> -->
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
@@ -172,7 +178,7 @@ $.ajax({
                 </div>
             </div>
         <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-6">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <i class="fa fa-bar-chart-o fa-fw"></i> Competition
@@ -248,7 +254,9 @@ $.ajax({
                         </div>
                         <!-- /.panel-body -->
                     </div>
+                    </div>
                     <!-- /.panel -->
+                    <div class="col-lg-6">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <i class="fa fa-bar-chart-o fa-fw"></i> Sentiment Analysis
@@ -261,143 +269,203 @@ $.ajax({
                                     <ul class="dropdown-menu pull-right" id="feature_drop" role="menu">
                                         
                                     </ul>
-                                </div>
-                            </div>
-                        </div>
-                       
-                         <!-- /.panel-heading -->
-                        <div class="panel-body">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <div class="table-responsive">
-                                        <table class="table table-bordered table-hover table-striped" id="sentiments">
-                                            <thead>
-                                                <tr>
-                                                    <th>#</th>
-                                                    <th>Features</th>
-                                                    <th>Positive Mentions</th>
-                                                    <th>Negative Mentions</th>
-                                                </tr>
-                                            </thead>
-                                            <script>
-                $.ajax({
-                    url: 'api_output.json' , 
-                    dataType:'json',
-                    success:function(result){
-                    var table = document.getElementById("sentiments");
-                    var drop = document.getElementById("feature_drop");
-                    // var header = table.createTHead();
-                    // var rowFeatures = header.insertRow(0);
-                    // var rowPositive = header.insertRow(1);
-                    // var rowNegative = header.insertRow(2);
-                    
-                    var features = rowFeatures.insertCell(0);
-                    var pmentions = rowPositive.insertCell(0);
-                    var nmentions = rowNegative.insertCell(0);
-                    
-                    // features.innerHTML="<b>FEATURES</b>";
-                    // pmentions.innerHTML="<b>POSITIVE MENTIONS</b>";
-                    // nmentions.innerHTML="<b>NEGATIVE MENTIONS</b>";
-                    
-                    for(i=0;i<result["features"].length;i++){
 
-                        // var name = rowFeatures.insertCell(i+1);
-                        // drop.innerHTML="<b>"+result["features"][i]["feature"]+"<b>";
-                        var li = document.createElement('li');
-                        var a = document.createElement('a');
-                        drop.appendChild(li);
-                        li.appendChild(a);
-                        a.href = "#";
-                        a.innerHTML=result["features"][i]["feature"];
-                        var positiveCount = rowPositive.insertCell(i+1);
-                        positiveCount.innerHTML=result["features"][i]["pro_count"];
-                        var negativeCount = rowNegative.insertCell(i+1);
-                        negativeCount.innerHTML=result["features"][i]["con_count"];
-                        
-                    }   
-                }
-                });
-            </script>
-                                        </table>
-                                    </div>
-                                    <!-- /.table-responsive -->
                                 </div>
-                                <!-- /.col-lg-4 (nested) -->
-                                <div class="col-lg-8">
-                                    <div id="morris-bar-chart"></div>
-                                </div>
-                                <!-- /.col-lg-8 (nested) -->
+
                             </div>
-                            <!-- /.row -->
+                            <div id="chartdiv2"></div>
+            <!--chart code-->
+            <script>
+            var chartData = generateChartData();
+
+var chart = AmCharts.makeChart("chartdiv2", {
+    "type": "serial",
+    "theme": "light",
+    "legend": {
+        "useGraphSettings": true
+    },
+    "dataProvider": chartData,
+    "synchronizeGrid":true,
+    "valueAxes": [{
+        "id":"v1",
+        "axisColor": "#FF6600",
+        "axisThickness": 2,
+        "axisAlpha": 1,
+        "position": "left"
+    }, {
+        "id":"v2",
+        "axisColor": "#FCD202",
+        "axisThickness": 2,
+        "axisAlpha": 1,
+        "position": "right"
+    }, {
+        "id":"v3",
+        "axisColor": "#B0DE09",
+        "axisThickness": 2,
+        "gridAlpha": 0,
+        "offset": 50,
+        "axisAlpha": 1,
+        "position": "left"
+    }],
+    "graphs": [{
+        "valueAxis": "v1",
+        "lineColor": "#FF6600",
+        "bullet": "round",
+        "bulletBorderThickness": 1,
+        "hideBulletsCount": 30,
+        "title": "Negative mentions",
+        "valueField": "negative_mentions",
+        "fillAlphas": 0
+    }, {
+        "valueAxis": "v2",
+        "lineColor": "#FCD202",
+        "bullet": "square",
+        "bulletBorderThickness": 1,
+        "hideBulletsCount": 30,
+        "title": "Neutral Mentions",
+        "valueField": "neutral_mentions",
+        "fillAlphas": 0
+    }, {
+        "valueAxis": "v3",
+        "lineColor": "#B0DE09",
+        "bullet": "triangleUp",
+        "bulletBorderThickness": 1,
+        "hideBulletsCount": 30,
+        "title": "Positive mentions",
+        "valueField": "positive_mentions",
+        "fillAlphas": 0
+    }],
+    "chartScrollbar": {},
+    "chartCursor": {
+        "cursorPosition": "mouse"
+    },
+    "categoryField": "date",
+    "categoryAxis": {
+        "parseDates": true,
+        "axisColor": "#DADADA",
+        "minorGridEnabled": true
+    },
+    "export": {
+        "enabled": true,
+        "position": "bottom-right"
+     }
+});
+
+chart.addListener("dataUpdated", zoomChart);
+zoomChart();
+
+
+// generate some random data, quite different range
+function generateChartData() {
+    var chartData = [];
+    var firstDate = new Date();
+    firstDate.setDate(firstDate.getDate() - 100);
+    var n = [0,0,0,1,0,0,0,0,0,0,0,0,0];
+    var neu = [2,3,1,0,4,0,2,3,0,1,1,1,0];
+    var p = [3,11,12,8,12,10,18,9,7,5,15,9,2];
+    for (var i = 0; i < 13; i++) {
+        // we create date objects here. In your data, you can have date strings
+        // and then set format of your dates using chart.dataDateFormat property,
+        // however when possible, use date objects, as this will speed up chart rendering.
+        
+        var newDate = new Date(firstDate);
+        newDate.setDate(newDate.getDate() + i);
+
+        var negative_mentions = n[i];
+        var neutral_mentions = neu[i];
+        var positive_mentions = p[i];
+
+        chartData.push({
+            date: newDate,
+            positive_mentions: positive_mentions,
+            negative_mentions: negative_mentions,
+            neutral_mentions: neutral_mentions
+        });
+    }
+    return chartData;
+}
+
+function zoomChart(){
+    chart.zoomToIndexes(chart.dataProvider.length - 20, chart.dataProvider.length - 1);
+}
+</script>
+        </div>
                         </div>
-                        <!-- /.panel-body -->
+                    
                     </div>
                     <!-- /.panel -->
-                </div>
+                
             <!-- col-lg-8 -->
-            <div class="col-lg-4">
+            <div class="col-lg-12">
                 <div class="panel panel-default">
                         <div class="panel-heading">
-                            <i class="fa fa-bell fa-fw"></i> Notifications Panel
+                            <i class="fa fa-bell fa-fw"></i> Latest Reviews
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
-                            <div class="list-group">
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-comment fa-fw"></i> New Comment
-                                    <span class="pull-right text-muted small"><em>4 minutes ago</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-twitter fa-fw"></i> 3 New Followers
-                                    <span class="pull-right text-muted small"><em>12 minutes ago</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-envelope fa-fw"></i> Message Sent
-                                    <span class="pull-right text-muted small"><em>27 minutes ago</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-tasks fa-fw"></i> New Task
-                                    <span class="pull-right text-muted small"><em>43 minutes ago</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-upload fa-fw"></i> Server Rebooted
-                                    <span class="pull-right text-muted small"><em>11:32 AM</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-bolt fa-fw"></i> Server Crashed!
-                                    <span class="pull-right text-muted small"><em>11:13 AM</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-warning fa-fw"></i> Server Not Responding
-                                    <span class="pull-right text-muted small"><em>10:57 AM</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-shopping-cart fa-fw"></i> New Order Placed
-                                    <span class="pull-right text-muted small"><em>9:49 AM</em>
-                                    </span>
-                                </a>
-                                <a href="#" class="list-group-item">
-                                    <i class="fa fa-money fa-fw"></i> Payment Received
-                                    <span class="pull-right text-muted small"><em>Yesterday</em>
-                                    </span>
-                                </a>
+                            <div class="list-group" style="overflow: auto; height: 300px;">
+                               
+                                <table id="review_table" class="ui padded table" align="center">
+                <tbody id="review_body">
+                    <script>
+                        $.ajax({
+                            url: 'api_output.json' , 
+                            dataType:'json',
+                            success:function(result){
+                                var table = document.getElementById("review_body");
+                                for(i=0;i<result["features"].length;i++){
+                                        /*var feature_name = result["features"][i]["feature"];
+                                        var row = table.insertRow(-1);
+                                        var feature_head = row.insertCell(0);
+                                        feature_head.innerHTML = "<div><h2>"+feature_name+"</h2></div>";
+                                        feature_head.style.backgroundColor = "#FBD76F";*/
+                                    for(j=0;j<result["features"][i]["examples"].length;j++){
+                                        var review_text = result["features"][i]["examples"][j]["text"];
+                                        var review_auth = result["features"][i]["examples"][j]["author"][0];
+                                        var review_date = result["features"][i]["examples"][j]["date"];
+                                        var row = table.insertRow(-1);
+                                        var review = row.insertCell(0);
+                                        review.innerHTML = "<div class='review ui stackable grid' id='load'><div class='two wide column'>Sources</div><div class='seven wide column snippet'><div class='content'>"+review_text+"</div></div><div class='two wide column'>rating</div><div class='three wide column'><i>Dated:"+review_date+"</div><div class='two wide column'><i class='large reply icon'></i><a href='#'>Reply</a></div></div><br/>";
+                                    }
+                                
+                                }
+                            
+                            }
+                        
+                        });
+                        
+                        $(function () {
+    $("#review_table,tr").slice(0, 4).show();
+    $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $("#review_table,tr:hidden").slice(0, 4).slideDown();
+        if ($("#review_table,tr:hidden").length == 0) {
+            $("#load").fadeOut('slow');
+        }
+        $('#review_table,tbody').animate({
+            scrollTop: $(this).offset().top
+        }, 1500);
+    });
+});
+
+
+
+
+                    </script>
+                </tbody>
+            </table>
+
+
                             </div>
                             <!-- /.list-group -->
-                            <a href="#" class="btn btn-default btn-block">View All Alerts</a>
+                           
                         </div>
                         <!-- /.panel-body -->
                     </div>
                     <!-- /.panel -->
             </div>
 
-        </div>    
+        </div>
     </div>
    
 
